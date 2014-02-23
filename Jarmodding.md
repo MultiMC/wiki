@@ -12,6 +12,7 @@ Mojang have said they DO NOT want people to put things into the jar, and there e
 * As a launchwrapper tweaker, doesn't require forge and still is a relatively clean way of installing. Also see the bottom.
 
 If you are a user who wants to install a jar mod with MultiMC you have three options:
+
 1. Find out if the mod can be installed in any other way (see next header)
 2. Go and ask the author of the mod to fix his stuff. Give them the link to this page.
 3. Create support for it in MultiMC and submit a PR.
