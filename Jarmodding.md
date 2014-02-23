@@ -1,8 +1,20 @@
+### What am I doing here?
+
+* You got sent here because you asked how to install a jar mod with MultiMC: Read the first two chunks of text.
+* You are a modder and got sent here because you are modifying the Minecraft jar: Read the first and third chunk.
+
+### About
+
 Jarmodding (putting stuff in the minecraft .jar) is currently not supported, also none of the main developers feel like doing it right now, so if no one submit a pull request support won't be added for now.
 
 Mojang have said they DO NOT want people to put things into the jar, and there exist several alternative ways of that jar mods could be installed in (used by some jar mods):
 * As a MinecraftForge mod (simply drop into the mods/ folder). Requires a version of forge for the minecraft version.
 * As a launchwrapper tweaker, doesn't require forge and still is a relatively clean way of installing. Also see the bottom.
+
+If you are a user who wants to install a jar mod with MultiMC you have three options:
+1. Find out if the mod can be installed in any other way (see next header)
+2. Go and ask the author of the mod to fix his stuff. Give them the link to this page.
+3. Create support for it in MultiMC and submit a PR.
 
 ### List of jarmods
 
@@ -23,4 +35,15 @@ Launchwrapper is a library supplied by mojang for injecting bytecode into the ga
         "name": "net.minecraft:launchwrapper:<version>"
     }
 
-to the libraries array, setting "mainClass" to "net.minecraft.launchwrapper.Launch" and adding "--tweakClass &lt;name of class&gt;" to the "minecraftArguments" string in the instance JSON. &lt;version&gt; depends on the version of Minecraft (try 1.7, 1.8, 1.9 for the recent versions of minecraft) and &lt;name of class&gt; should be a class implementing `net.minecraft.launchwrapper.ITweaker`. From there it's possible to pretty much do whatever you want.
+ at the top of the libraries array, setting "mainClass" to "net.minecraft.launchwrapper.Launch" and adding "--tweakClass &lt;name of class&gt;" to the "minecraftArguments" string in the instance JSON (custom.json in MultiMC). &lt;version&gt; depends on the version of Minecraft (try 1.7, 1.8, 1.9 for the recent versions of minecraft) and &lt;name of class&gt; should be a class implementing `net.minecraft.launchwrapper.ITweaker`. Add another library entry above the launchwrapper one:
+
+    {
+        "name": "<part1>:<part2>:<version>",
+        "MMC-hint": "local"
+    }
+
+Then place the jar file with the ITweaker class and the rest of the mod in `libraries/<part1>/<part2>/<version>/<part2>-<version>.jar`. For the Mojang Launcher you can omit the MMC-hint field.
+
+When using MultiMC you can even be really fancy and add either a "url" (`<url>/<part1>/<part2>/<version>/<part2>-<version>.jar`) or a "MMC-absoluteUrl" field, MultiMC will then download the mod from that URL. Remember to omit the MMC-hint field if you want this to happen though.
+
+There isn't a lot of a difference between how MultiMC and how the Mojang Launcher handle this stuff, so this applies to both launchers.
