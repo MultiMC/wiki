@@ -1,7 +1,7 @@
 ### What am I doing here?
 
-* You got sent here because you asked how to install a jar mod with MultiMC: Read the first two chunks of text.
-* You are a modder and got sent here because you are modifying the Minecraft jar: Read the first and third chunk.
+* You got sent here because you asked how to install a jar mod with MultiMC: Read the text under the first two headers.
+* You are a modder and got sent here because you are modifying the Minecraft jar: Read the text under the first and the third header.
 
 ### About
 
