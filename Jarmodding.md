@@ -22,11 +22,12 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 | Name      | Forge | Launchwrapper |
 | --------- | ----- | ------------- |
 | OptiFine  | Yes   | Yes*          |
-| MCPatcher | No    | No            |
+| MCPatcher | No    | No**            |
 
 TODO: Add more mods here
 
 \* See [MultiMC and Optifine](https://github.com/MultiMC/MultiMC5/wiki/MultiMC-and-Optifine) for how to install optifine without forge, using launchwrapper
+\** MCPatcher can be made working, see [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100#entry29778001) and a few posts up
 
 ### More on launchwrapper (kinda more for modders)
 
