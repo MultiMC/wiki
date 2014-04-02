@@ -39,4 +39,4 @@ Just use OptiFine like any other Forge mod
 ### Troubleshooting and FAQ
 
 * `java.lang.ClassDefNotFound: optifine.OptiFineTweaker`: make sure that the path to OptiFine that's outputted on the console is actually pointing to the file you downloaded.
-* This broke my game!: Not warranty is given. While we might help you, when doing stuff like this you are entirely on your own.
+* This broke my game!: No warranty is given. While we might help you, when doing stuff like this you are entirely on your own.
