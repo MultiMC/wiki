@@ -23,4 +23,4 @@ Notes/warnings on some settings:
     * These are not for JVM arguments, use the _JVM Arguments_ field for that
     * The environment variables INST_NAME, INST_ID, INST_DIR, INST_MC_DIR, INST_JAVA, INST_JAVA_ARGS will be set when running the commands, these variables can also be used in the command string (Unix syntax, $\<variable name\>).
 * External Tools
-  * See [[External Tools]]
+  * See [[Tools]]
