@@ -12,7 +12,7 @@
 
 * [Homepage](http://multimc.org)
 
-**Technical & Indepth**
+**Technical & In-depth**
 
 * [[JSON patches]]
 * [[Directory Structure]]
