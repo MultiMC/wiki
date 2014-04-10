@@ -4,6 +4,8 @@
 * [[About]]
 * [[FAQ]]
 * [[Getting Started]]
+* [[Instance Settings]]
+* [[Tools]]
 * [[Feedback]]
 
 **External**
@@ -12,7 +14,8 @@
 
 **Technical & Indepth**
 
-
+* [[JSON patches]]
+* [[Directory Structure]]
 
 **For developers**
 
