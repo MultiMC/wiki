@@ -7,7 +7,7 @@ This is a Forge issue which we'll have a workaround for soon (they have a set of
 4. _My \<window icon/window title/maximise/fullscreen\> options don't work in 1.6+_
 We haven't implemented support for that yet, but we do plan on having it.
 5. _Why can't I select a version of Minecraft over 1.5.2?_
-You're probably using MultiMC 4. Mojang fundamentally changed the way Minecraft is launched in later versions, and we decided to rewrite MultiMC to support it. You can get test builds of MultiMC 5 (which supports everything the vanilla launcher does) from the homepage.
+You're probably using MultiMC 4. Mojang fundamentally changed the way Minecraft is launched in later versions, and we decided to rewrite MultiMC to support it. You can get MultiMC 5 (which supports everything the vanilla launcher does) from the homepage.
 6. _Where do I put my coremods in 1.6+?_
 Forge now expects coremods to be in the same place as regular mods, so just stick them in the "Loader Mods" tab along with the other mods.
 7. _Why do I get an SSL error (or why can't log in) using Windows XP?_
