@@ -1,7 +1,4 @@
 Welcome to the MultiMC5 wiki!
 
-# Tips and tricks
-
-* [Using OptiFine in MultiMC](MultiMC and Optifine)
-* [Jarmodding](Jarmodding)
-* [Translating MultiMC](Translating MultiMC)
+* If you are new to MultiMC you probably want to check out [[Getting Started]]
+* For further navigation please check the sidebar to the right

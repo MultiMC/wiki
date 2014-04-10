@@ -1,5 +1,6 @@
 **General**
 
+* [[Home]]
 * [[About]]
 * [[FAQ]]
 * [[Getting Started]]
