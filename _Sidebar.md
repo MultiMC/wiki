@@ -4,7 +4,7 @@
 * [[About]]
 * [[FAQ]]
 * [[Getting Started]]
-* [[Instance Settings]]
+* [[Settings]]
 * [[Tools]]
 * [[Feedback]]
 
