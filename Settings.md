@@ -1,4 +1,4 @@
-There are two types settings: Global and per-instance
+There are two types of settings: Global and per-instance
 * Global settings are accessed by clicking the <img alt="Settings Button" src="images/SettingsButton.png" width="24px;"/>
 * Per-instance settings are accessed by selecting an instance and then clicking _Settings_ in the right toolbar
 
