@@ -14,7 +14,7 @@
 
 **Technical & In-depth**
 
-* [[JSON patches]]
+* [[JSON Patches]]
 * [[Directory Structure]]
 
 **For developers**
