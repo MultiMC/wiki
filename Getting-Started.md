@@ -53,4 +53,8 @@ This might not be available on all versions of Minecraft
 ## Adding mods
 
 1. Select an instance, _Edit Mods_, _Loader Mods_ tab or _Core Mods_ tab (pre-1.6 only)
-2. _Add_ and select the mod(s) to add 
+2. _Add_ and select the mod(s) to add
+
+# What next?
+
+Check out the sidebar to the right, or go to [[Tips and Tricks]]
