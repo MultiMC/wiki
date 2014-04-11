@@ -7,6 +7,7 @@
 * [[Settings]]
 * [[Tools]]
 * [[Feedback]]
+* [[Tips and Tricks]]
 
 **External**
 
