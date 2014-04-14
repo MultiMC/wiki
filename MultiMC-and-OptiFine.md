@@ -40,4 +40,5 @@ Just use OptiFine like any other Forge mod
 ### Troubleshooting and FAQ
 
 * `java.lang.ClassDefNotFound: optifine.OptiFineTweaker`: make sure that the path to OptiFine that's outputted on the console is actually pointing to the file you downloaded.
+* `java.lang.reflect.InvocationTargetException, Caused by: joptsimple.MissingRequiredOptionException: Missing required option(s) ['userProperties', 'accessToken']`: Minecraft 1.7 requires a different "minecraftArguments" value. Try `"minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} ",`
 * This broke my game!: No warranty is given. While we might help you, when doing stuff like this you are entirely on your own.
