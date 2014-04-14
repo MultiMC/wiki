@@ -20,6 +20,7 @@ Just use OptiFine like any other Forge mod
             "MMC-depend": "hard",
             "MMC-hint": "local",
             "name": "optifine:OptiFine:<Version Of OptiFine>"
+        }
     ],
     "+tweakers": [ "optifine.OptiFineTweaker" ],
     "fileId": "optifine.OptiFine",
