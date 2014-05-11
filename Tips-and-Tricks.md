@@ -1,4 +1,4 @@
-* [[Jar modding]]
+* [[Jarmodding]]
 * [[MultiMC and Optifine]]
 * [[Translating MultiMC]]
 * [[Tools]]
