@@ -2,4 +2,4 @@
 * [[MultiMC and Optifine]]
 * [[Translating MultiMC]]
 * [[Tools]]
-* [[Increasing-Java's-memory-allocation]]
+* [[Increasing Java's memory allocation]]
