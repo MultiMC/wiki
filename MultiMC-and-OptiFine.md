@@ -32,8 +32,8 @@ Just use OptiFine like any other Forge mod
     "version": "<Version Of Optifine>"
 }
 ```
-4. Download OptiFine and put the file into <MMC>/libraries/optifine/OptiFine/
-5. Rename the file to `OptiFine-<Version Of OptiFine>.jar`, where `<Version Of OptiFine>` is the part of the downloaded file name after the first underscore. This means OptiFine_1.7.4_HD_U_C7.jar gets renamed to OptiFine-1.7.4_HD_U_C7.jar. Also replace `<Version Of OptiFine>` in the file in #3 with EXACTLY the same version.
+4. Download OptiFine and put the file into <MMC>/libraries/optifine/OptiFine/<version>
+5. Rename the file to `OptiFine-<Version Of OptiFine>.jar`, where `<Version Of OptiFine>` is the part of the downloaded file name after the first underscore. This means OptiFine_1.7.4_HD_U_C7.jar gets renamed to OptiFine-1.7.4.jar. Also replace `<Version Of OptiFine>` in the file in #3 with EXACTLY the same version.
 6. Also replace `<Version Of Minecraft>` in the file in #3 with the name of the version of Minecraft (1.7.5 for example)
 7. Launch the instance from MultiMC
 
