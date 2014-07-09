@@ -1,4 +1,3 @@
-# Screenshot management
 ![](http://dethware.org/pics/mmchelp/screenshots.png)
 
 Here, you can manage the screenshots Minecraft creates when you press F2 and upload them to imgur.com.
