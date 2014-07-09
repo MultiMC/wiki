@@ -26,3 +26,4 @@
 **Help**
 
 * [[Instance settings]]
+* [[Screenshot management]]
