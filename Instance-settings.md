@@ -1,4 +1,3 @@
-# Instance settings
 The instance settings allow you to override the global MultiMC settings for a particular instance.
 The settings are divided in sections, each with a check box, which enables the override.
 
