@@ -24,7 +24,7 @@
 * [CI](http://ci.multimc.org/)
 
 **Help**
-
+* [[Instance version]]
 * [[Instance settings]]
 * [[Screenshots management]]
 * [[Notes]]
