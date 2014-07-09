@@ -1,6 +1,6 @@
 ![](http://dethware.org/pics/mmchelp/screenshots.png)
 
-Here, you can manage the screenshots Minecraft creates when you press F2 and upload them to imgur.com.
+Here, you can manage the screenshots Minecraft creates when you press F2 and upload them to imgur.com. This page is available in both the Edit instance dialog and the console window while the instance is running.
 
 Double clicking the screenshots opens them in your default image viewer (or editor).
 
