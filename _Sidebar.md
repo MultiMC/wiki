@@ -27,3 +27,4 @@
 
 * [[Instance settings]]
 * [[Screenshots management]]
+* [[Notes]]
