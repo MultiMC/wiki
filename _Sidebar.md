@@ -25,6 +25,7 @@
 
 **Help**
 * [[Instance version]]
+* [[Loader mods]]
 * [[Instance settings]]
 * [[Screenshots management]]
 * [[Notes]]
