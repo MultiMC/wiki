@@ -18,4 +18,4 @@ Please follow the following guidelines to speed up the processing of issues and 
 ### Feature requests
 
 * Provide as much info as possible, links etc.
-* There are no to stupid requests
+* There are no stupid requests. If you have an idea for how to make MultiMC better, we want to hear about it.
