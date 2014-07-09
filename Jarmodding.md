@@ -5,8 +5,6 @@
 
 ### About
 
-Jarmodding (putting stuff in the minecraft .jar) is currently not supported, also none of the main developers feel like doing it right now, so if no one submit a pull request support won't be added for now.
-
 Mojang have said they DO NOT want people to put things into the jar, and there exist several alternative ways of that jar mods could be installed in (used by some jar mods):
 * As a MinecraftForge mod (simply drop into the mods/ folder). Requires a version of forge for the minecraft version.
 * As a launchwrapper tweaker, doesn't require forge and still is a relatively clean way of installing. Also see the bottom.
@@ -16,6 +14,7 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 1. Find out if the mod can be installed in any other way (see next header)
 2. Go and ask the author of the mod to fix his stuff. Give them the link to this page.
 3. Create support for it in MultiMC and submit a PR.
+4. MultiMC does include jar mod support. However, we would like to discourage the use of those. If you have other options, please use them. If not, you can add jar mods in the [[Instance version]] page of the Edit instance dialog.
 
 ### List of jarmods
 
