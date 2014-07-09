@@ -2,10 +2,7 @@
 No. You need a premium Minecraft account, just like you do with the vanilla launcher. Yes, there's an offline mode, but it only works when you've successfully authenticated at least once with an account.
 
 ### How do I replace class files in my 1.6+ instance?
-As of right now, you don't. Mojang have made it clear that they don't want people in the jar file, so we don't plan on supporting it. We will eventually, however, support loading custom libraries (our Forge integration is just a specific type of this). See [[Jarmodding]] for more information.
-
-### Why does my 1.5.2 or older instance fail to load when I install Forge to it?
-This is a Forge issue which we'll have a workaround for soon (they have a set of libraries that you need to manually download). For now, please read their EAQ (the bit about failed downloads in the "common problems and solutions section").
+While this is possible, we would like to discourage the use of jar mods. Mojang have made it clear that they don't want people in the jar file. See [[Jarmodding]] for more information.
 
 ### Why don't the window icon, window title, maximise, and fullscree options work in 1.6 or newer?
 We haven't implemented support for that yet, but we do plan on having it.
