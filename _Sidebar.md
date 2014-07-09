@@ -22,3 +22,7 @@
 
 * [Roadmap](https://www.pivotaltracker.com/s/projects/869353)
 * [CI](http://ci.multimc.org/)
+
+**Help**
+
+* [[Instance settings]]
