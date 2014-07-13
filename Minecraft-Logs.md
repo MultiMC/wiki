@@ -1,4 +1,4 @@
-*If someone asks for your log, always use the _Upload_ button*
+**If someone asks for your log, always use the _Upload_ button**
 
 # Minecraft Log page
 
