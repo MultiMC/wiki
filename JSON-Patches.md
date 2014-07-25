@@ -1,6 +1,6 @@
 This is quite a big topic. It will be assumed that you are familiar with opening files, the JSON file format, and that you know how to ask for help, and when to not ask at all.
 
-This entire page only applies to 1.6+.
+This entire page only applies to OneSix instances.
 
 Also see [here](http://wiki.vg/Game_Files) for some more information
 
