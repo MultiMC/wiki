@@ -1,4 +1,4 @@
-An often requested feature for MultiMC is the addition of a server handling part. See issue #60.
+An often requested feature for MultiMC is the addition of a server handling part. See issue [#60](https://github.com/MultiMC/MultiMC5/issues/60).
 
 This page is for collecting ideas of what could be included in a possible MultiMC Server, as well as ideas of how it can be implemented.
 
@@ -7,7 +7,7 @@ This page is for collecting ideas of what could be included in a possible MultiM
 * Starting and stopping of servers
 * Handling of files (mod lists)
 * Changing Minecraft (and other) versions
-* Support for [Cauldron](http://cauldron.minecraftforge.net/) (see #385) and Forge
+* Support for [Cauldron](http://cauldron.minecraftforge.net/) (see [#385](https://github.com/MultiMC/MultiMC5/issues/385)) and Forge
 * Sync a server instance with a client instance (for things like starting, stopping and Minecraft version)
 * QuickMod support
 * Real-time transfer of logs
