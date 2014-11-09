@@ -31,7 +31,15 @@ Should be self-explanatory. If you want to watch the game start up or are trying
 ##Custom commands
 ![](http://dethware.org/pics/mmchelp/custcmds.png)
 
-Pre-launch command runs before the instance launches and post-exit command runs after it exits. The commands run in MultiMC's working directory with INST_ID, INST_DIR and INST_NAME as environment variables.
+Pre-launch command runs before the instance launches and post-exit command runs after it exits.
+
+Both will be run in MultiMC's working directory with extra environment variables:
+* INST_NAME - Name of the instance
+* INST_ID - ID of the instance
+* INST_DIR - absolute path of the instance
+* INST_MC_DIR - absolute path of minecraft
+* INST_JAVA - java binary used for launch
+* INST_JAVA_ARGS - command-line parameters used for launch
 
 The commands have to finish running for the instance start/exit to proceed.
 
