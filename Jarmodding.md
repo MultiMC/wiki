@@ -13,7 +13,6 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 
 1. Find out if the mod can be installed in any other way (see next header)
 2. Go and ask the author of the mod to fix his stuff. Give them the link to this page.
-3. Create support for it in MultiMC and submit a PR.
 4. MultiMC does include jar mod support. However, we would like to discourage the use of those. If you have other options, please use them. If not, you can add jar mods in the [[Instance version]] page of the Edit instance dialog.
 
 ### List of jarmods
@@ -21,7 +20,7 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 | Name      | Forge | Launchwrapper |
 | --------- | ----- | ------------- |
 | OptiFine  | Yes   | Yes*          |
-| MCPatcher | No    | No**            |
+| MCPatcher | No    | No**          |
 
 TODO: Add more mods here
 
