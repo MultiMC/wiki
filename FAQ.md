@@ -4,6 +4,8 @@ No. You need a premium Minecraft account, just like you do with the vanilla laun
 ### How do I replace class files in my 1.6+ instance?
 While this is possible, we would like to discourage the use of jar mods. Mojang have made it clear that they don't want people in the jar file. See [[Jarmodding]] for more information.
 
+If you still need to do so, go to Instance Settings -> Versions -> Add jarmod
+
 ### Why don't the window icon, window title, maximise, and fullscree options work in 1.6 or newer?
 We haven't implemented support for that yet, but we do plan on having it.
 
@@ -15,3 +17,6 @@ Forge now expects coremods to be in the same place as regular mods, so just stic
 
 ### Why do I get an SSL error (or why can't log in) using Windows XP?
 Windows XP is really, really old now, but MultiMC will work on it provided you have both updated root certificates and MSVCR 2008 installed.
+
+### Why am I getting weird crashes and/or slow rendering with a NVidia Optimus graphics card on Windows?
+There's some blackmagic going on here, try renaming MultiMC.exe to Minecraft.exe.
