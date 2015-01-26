@@ -29,7 +29,7 @@ TODO: Add more mods here
 
 \** MCPatcher can be made working, see [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100#entry29778001) and a few posts up
 
-\*** [Minecrift](https://github.com/MultiMC/MultiMC5/wiki/Minecrift) is special see its wiki page for more info.
+\*** [Minecrift](https://github.com/MultiMC/MultiMC5/wiki/Minecrift) is special. See its wiki page for more info.
 
 ### More on launchwrapper (kinda more for modders)
 
