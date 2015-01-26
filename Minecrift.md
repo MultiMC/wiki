@@ -4,10 +4,12 @@ Instructions for 1.8.1
 1. Create 'jarmods' and 'patches' folders in your instance directory.
 2. Use the installer with the vanilla launcher
 3. Copy libraries/com/mtbs3d/minecrift/1.8.1-PRE2/minecrift-1.8.1-PRE2.jar **FROM THE VANILLA LAUNCHER (.minecraft)** into the MultiMC instance's jarmods folder
-4. Copy the above file into patches with the same name
-5. Restart MultiMC
-6. Hopefully profit
+4. Download optifine 1.8.1 HD Ultra B2 and save it as MultiMC/libraries/optifine/OptiFine/1.8.1_HD_U_B2/OptiFine-1.8.1_HD_U_B2.jar
+5. Copy the below file into patches with the given name
+6. Restart MultiMC
+7. Hopefully profit
 
+com.mtbs3d.minecrift.json
 ```json
 {
     "+jarMods": [
@@ -27,8 +29,7 @@ Instructions for 1.8.1
         {
             "insert": "prepend",
             "name": "optifine:OptiFine:1.8.1_HD_U_B2",
-            "MMC-depend": "hard",
-            "MMC-absoluteUrl": "http://optifine.net/downloadx?f=OptiFine_1.8.1_HD_U_B2.jar&x=e09c089354999aba9905d4a0cbbfc2ed"
+            "MMC-hint": "local"
         },
         {
             "insert": "append",
