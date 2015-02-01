@@ -22,6 +22,7 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 | OptiFine  | Yes   | Yes*          |
 | MCPatcher | No    | No**          |
 | Minecrift | NO    | Yes***        |
+| ShadersModCore | Yes | Yes: [Gist by peterix](https://gist.github.com/peterix/a4f61bae356ca878a93f) |
 
 TODO: Add more mods here
 
