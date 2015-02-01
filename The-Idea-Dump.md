@@ -11,3 +11,7 @@ A base model contains all lines and handles caching, lines far away are saved on
 ## Idea: Make more use of the log
 
 It would be nice to be able to extract more information from the log and display it to the user. Things like incompatible mod versions or ID conflicts should be parsed.
+
+## Patches: extract library from installer
+
+Many "mods" are distributed as an installer that contains the actual library. Many automatically extract it, if some info is given in the JSON?
