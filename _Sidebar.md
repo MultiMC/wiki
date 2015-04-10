@@ -11,6 +11,7 @@
 **External**
 
 * [Homepage](http://multimc.org)
+* [Modpack Installation by Hephinator](http://hephinator.com/stuff/modpacks/READTHISFIRST.txt)
 
 **Technical & In-depth**
 
