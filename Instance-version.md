@@ -1,7 +1,4 @@
-
-* * *
-![](http://i.imgur.com/HdZXaSL.png)
-
+<center>![](http://i.imgur.com/HdZXaSL.png)</center>
 ***
 Here, you can add the various components that make up the base of the instance and change their versions. You are also able to change the order that these components are launched. This is an advanced feature so in general, do not touch the up and down buttons:
 * **Selection**
@@ -14,7 +11,7 @@ Here, you can add the various components that make up the base of the instance a
 * **LWJGL** (see editing components)
 * **Common mod loaders** - Forge and LiteLoader
 
-  The install buttons are *THE* way to install Forge and LiteLoader in MultiMC. Their original installers do not work here. Advanced used can edit these mod-loaders (see editing components).
+  The install buttons are *THE ONLY* way to install Forge and LiteLoader in MultiMC. Their original installers do not work here. Advanced used can edit these mod-loaders (see editing components).
 * **Jar mods**
 
   Mods that you would normally have to add to the minecraft jar file can be added here. Just click the button and select the .jar or .zip file. For jar mods, order in which the mods are added matters. So, you can also reorder them with the 'Move up' and 'Move down' buttons. Mods lower in the list override the ones above them and reflect the order in which you would insert them into the Minecraft jar manually otherwise.
