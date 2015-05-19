@@ -10,6 +10,8 @@
 
 **Help**
 
+* [[MultiMC settings]]
+* [[Minecraft settings]]
 * [[Instance version]]
 * [[Loader mods]]
 * [[Instance settings]]
