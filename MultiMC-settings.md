@@ -22,22 +22,22 @@ You can sort your instances by last launched or by thier name.
 ![](http://i.imgur.com/JcrxCtE.png)
 Here you can select the icon theme of MultiMC, here are the current ones
 
-Simple dark
+* Simple dark
 ![](http://i.imgur.com/GTVLhPg.png)
 
-Simple light
+* Simple light
 ![](http://i.imgur.com/0tyoSgh.png)
 
-Simple blue
+* Simple blue
 ![](http://i.imgur.com/jgEY5xN.png)
 
-Simple colored
+* Simple colored
 ![](http://i.imgur.com/VggoFy8.png)
 
-OSX
+* OSX
 ![](http://i.imgur.com/s1FgjVL.png)
 
-IOS
+* IOS
 ![](http://i.imgur.com/EMoll2d.png)
 
 ## Console Settings
@@ -47,4 +47,5 @@ Here you can set the set when the Minecraft console is showing & whether to auto
 
 ## Console founts
 ![](http://i.imgur.com/RRpXlvV.png)
+
 You can change how the texts in the console look, there is even some text there for you to see what it looks like.
