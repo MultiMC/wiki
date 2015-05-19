@@ -1,5 +1,5 @@
 The instance settings allow you to override the global MultiMC settings for a particular instance.
-The settings are divided in sections, each with a check box, which enables the override.
+The settings are divided in sections, each with a checkbox, which enables the override.
 
 ##Java installation
 ![](http://dethware.org/pics/mmchelp/javainst.png)
