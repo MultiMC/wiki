@@ -15,7 +15,6 @@
 * [[Instance settings]]
 * [[Screenshots management]]
 * [[Notes]]
-* [[Instance settings]]
 
 **Technical & In-depth**
 
