@@ -1,1 +1,1 @@
-Copyright © 2014 MultiMC Contributors
+Copyright © 2015 MultiMC Contributors
