@@ -8,6 +8,20 @@
 * [[Feedback]]
 * [[Tips and Tricks]]
 
+**Help**
+
+* [[Instance version]]
+* [[Loader mods]]
+* [[Instance settings]]
+* [[Screenshots management]]
+* [[Notes]]
+* [[Instance settings]]
+
+**Technical & In-depth**
+
+* [[JSON Patches]]
+* [[Directory Structure]]
+
 **External**
 
 * [Homepage](http://multimc.org)
@@ -15,21 +29,8 @@
 * [Video Spotlight by _Wylker_](https://www.youtube.com/watch?v=d71DAFlHOXg)
 * [German Video Tutorial by _TheMiners007_](https://www.youtube.com/watch?v=aL53SpXCddw)
 
-**Technical & In-depth**
-
-* [[JSON Patches]]
-* [[Directory Structure]]
-
 **For developers**
 
 * ~~[Roadmap](https://www.pivotaltracker.com/s/projects/869353)~~
 * [Workboard](https://waffle.io/multimc/multimc5)
 * [CI](http://ci.multimc.org/)
-
-**Help**
-* [[Instance version]]
-* [[Loader mods]]
-* [[Instance settings]]
-* [[Screenshots management]]
-* [[Notes]]
-* [[Instance settings]]
