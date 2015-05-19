@@ -1,5 +1,8 @@
+
+* * *
 ![](http://i.imgur.com/HdZXaSL.png)
 
+***
 Here, you can add the various components that make up the base of the instance and change their versions. You are also able to change the order that these components are launched. This is an advanced feature so in general, do not touch the up and down buttons:
 * **Selection**
 
