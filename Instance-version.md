@@ -3,11 +3,11 @@
 Here, you can add the various components that make up the base of the instance and change their versions.
 * **Selection**
 
-  **Change Version**: Almost all minecraft versions available can be selected. This includes releases, snapshots and even alpha and beta releases. Changing the Minecraft version will also remove/replace all the other base components such as mod-loaders like Forge or Liteloader.
+  * **Change Version**: Almost all minecraft versions available can be selected. This includes releases, snapshots and even alpha and beta releases. Changing the Minecraft version will also remove/replace all the other base components such as mod-loaders like Forge or Liteloader.
 
-  **Move Up/Down**: These buttons are for more advanced users who want to customize in which order the components are launched. Minecraft and LWJGL should always be the first two on the list. This is mostly used for re-ordering jar mods.
+  * **Move Up/Down**: These buttons are for more advanced users who want to customize in which order the components are launched. Minecraft and LWJGL should always be the first two on the list. This is mostly used for re-ordering jar mods.
 
-  **Remove**: Can be used to remove any added jar mod or mod-loader. Do not remove Minecraft or LWJGL. These are required for the game to launch.
+  * **Remove**: Can be used to remove any added jar mod or mod-loader. Do not remove Minecraft or LWJGL. These are required for the game to launch.
 * **Edit**
 
   **Customize**: Advanced users can customize the .json file that loads their minecraft instance. In general these files should not be touched unless you know what you are doing. Messing one of these up could mean having to delete your instance and recreate it.
