@@ -1,6 +1,6 @@
-<center>![](http://i.imgur.com/HdZXaSL.png)</center>
+![](http://i.imgur.com/HdZXaSL.png)
 ***
-Here, you can add the various components that make up the base of the instance and change their versions. You are also able to change the order that these components are launched. This is an advanced feature so in general, do not touch the up and down buttons:
+Here, you can add the various components that make up the base of the instance and change their versions.
 * **Selection**
 
   **Change Version**: Almost all minecraft versions available can be selected. This includes releases, snapshots and even alpha and beta releases. Changing the Minecraft version will also remove/replace all the other base components such as mod-loaders like Forge or Liteloader.
@@ -8,7 +8,14 @@ Here, you can add the various components that make up the base of the instance a
   **Move Up/Down**: These buttons are for more advanced users who want to customize in which order the components are launched. Minecraft and LWJGL should always be the first two on the list. This is mostly used for re-ordering jar mods.
 
   **Remove**: Can be used to remove any added jar mod or mod-loader. Do not remove Minecraft or LWJGL. These are required for the game to launch.
-* **LWJGL** (see editing components)
+* **Edit**
+
+  **Customize**: Advanced users can customize the .json file that loads their minecraft instance. In general these files should not be touched unless you know what you are doing. Messing one of these up could mean having to delete your instance and recreate it.
+
+  **Edit**: Opens the selected file using the default file editor for that type of file on the operating system. Edit is only available if the version is customized. By default, all installed mod-loaders are classified as custom versions.
+
+  **Revert**: By default, MultiMC stores a copy of the original, un-customized file so if you no longer wish to keep saved changes to the .json file, they can be restored to the original versions.
+
 * **Common mod loaders** - Forge and LiteLoader
 
   The install buttons are *THE ONLY* way to install Forge and LiteLoader in MultiMC. Their original installers do not work here. Advanced used can edit these mod-loaders (see editing components).
