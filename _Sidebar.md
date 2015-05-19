@@ -12,6 +12,7 @@
 
 * [[MultiMC settings]]
 * [[Minecraft settings]]
+* [[Java settings]]
 * [[Instance version]]
 * [[Loader mods]]
 * [[Instance settings]]
