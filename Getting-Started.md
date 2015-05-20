@@ -23,7 +23,7 @@ Explanation:
 2. Instance folder/Mods folder/Reload instance list
 3. Check for updates/Settings
 4. Bug reports/Information
-5. Donate to MultiMC devs
+5. Donate to MultiMC devs/ Kitten
 6. Accounts
 7. Instance actions (available once an instance has been selected)
 8. News
