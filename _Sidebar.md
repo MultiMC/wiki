@@ -32,9 +32,7 @@
 **External**
 
 * [Homepage](http://multimc.org)
-* [Guide on How-To Geek](http://www.howtogeek.com/202661/how-to-manage-minecraft-instances-and-mods-with-multimc/)
-* [Video Spotlight by _Wylker_](https://www.youtube.com/watch?v=d71DAFlHOXg)
-* [German Video Tutorial by _TheMiners007_](https://www.youtube.com/watch?v=aL53SpXCddw)
+* [[Tutorials]]
 
 **For developers**
 
