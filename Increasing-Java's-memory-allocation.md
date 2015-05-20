@@ -5,3 +5,5 @@ In general, values of 1024 MB minimum, 2048 MB maximum and 128 MB PermGen are ad
 If you get a 'java.lang.OutOfMemoryError' exception when you try to run an instance, you probably need to increase the amount of memory allocated to it.
 
 ![Example memory settings](http://multimc.org/images/screenshots/settings.png)
+
+For more information about this page, checkout [[java settings]]
