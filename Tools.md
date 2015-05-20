@@ -25,4 +25,4 @@ To get you started, go to the _Sampler_ tab and select _CPU_. Then click _Launch
 
 Get MCEdit [here](http://www.mcedit.net/)
 
-After clicking _MCEdit_ in the _Play_ menu you will be prompted for which world to open. After doing that you will be launched straight into that world in MCEdit
+After clicking _MCEdit_ in the _Play_ menu you will be prompted for which world to open. After doing that you will be launched straight into that world in MCEdit. You can use both MCEdit 1 & 2.
