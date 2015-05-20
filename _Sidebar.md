@@ -3,6 +3,7 @@
 * [[Home]]
 * [[FAQ]]
 * [[Getting Started]]
+* [[Import Instance]]
 * [[Feedback]]
 * [[Tips and Tricks]]
 
