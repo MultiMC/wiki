@@ -26,6 +26,7 @@
 **Technical & In-depth**
 
 * [[JSON Patches]]
+* [[Minecraft Logs]]
 * [[Directory Structure]]
 
 **External**
