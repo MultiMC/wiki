@@ -6,11 +6,11 @@ While this is possible, we would like to discourage the use of jar mods. Mojang 
 
 If you still need to do so, go to Instance Settings -> Versions -> Add jarmod
 
-### Why don't the window icon, window title, maximise, and fullscree options work in 1.6 or newer?
-We haven't implemented support for that yet, but we do plan on having it.
+### Why don't the window icon, window title, maximise, and fullscreen options work in-game?
+This can be changed in the instance settings per instance or in the multicraft settings for all the instances.
 
 ### Why can't I select a version of Minecraft over 1.5.2?
-You're probably using MultiMC 4. Mojang fundamentally changed the way Minecraft is launched in later versions, and we decided to rewrite MultiMC to support it. You can get MultiMC 5 (which supports everything the vanilla launcher does) from the homepage.
+You're probably using MultiMC 4. Mojang fundamentally changed the way Minecraft is launched in later versions, and we decided to rewrite MultiMC to support it. You can get MultiMC 5 (which supports everything the vanilla launcher does) from the [homepage](http://multimc.org/).
 
 ### Where do I put my coremods in 1.6 or newer?
 Forge now expects coremods to be in the same place as regular mods, so just stick them in the "Loader Mods" tab along with the other mods.
