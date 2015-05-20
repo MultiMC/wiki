@@ -7,15 +7,18 @@
 * [[Feedback]]
 * [[Tips and Tricks]]
 
-**Help**
+**Multicraft Help**
 
 * [[MultiMC settings]]
 * [[Minecraft settings]]
 * [[Java settings]]
 * [[Proxy settings]]
+
+**Instance Help**
+
 * [[Instance Versions]]
-* [[Loader mods]]
 * [[Instance settings]]
+* [[Loader mods]]
 * [[Screenshots management]]
 * [[Notes]]
 
