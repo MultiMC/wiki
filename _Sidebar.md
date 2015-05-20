@@ -3,7 +3,6 @@
 * [[Home]]
 * [[FAQ]]
 * [[Getting Started]]
-* [[Settings]]
 * [[Tools]]
 * [[Feedback]]
 * [[Tips and Tricks]]
