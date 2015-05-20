@@ -19,6 +19,7 @@
 * [[Instance Versions]]
 * [[Instance settings]]
 * [[Loader mods]]
+* [[Resource packs]]
 * [[Screenshots management]]
 * [[Notes]]
 
