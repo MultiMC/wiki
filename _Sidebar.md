@@ -3,7 +3,6 @@
 * [[Home]]
 * [[FAQ]]
 * [[Getting Started]]
-* [[Tools]]
 * [[Feedback]]
 * [[Tips and Tricks]]
 
@@ -13,6 +12,7 @@
 * [[Minecraft settings]]
 * [[Java settings]]
 * [[Proxy settings]]
+* [[Tools]]
 
 **Instance Help**
 
