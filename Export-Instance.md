@@ -20,4 +20,4 @@ By default, all the instance files are checked however not all of these are requ
 ## Importing in MultiMC
 
 You can import any zipped modpacks that are already made for MultiMC as _.zip_ files.
-Learn more about importing **[HERE[Import Instance]]**.
+Learn more about importing here: **[[Import Instance]]**.
