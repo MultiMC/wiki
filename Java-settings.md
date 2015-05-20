@@ -3,7 +3,7 @@ Here you can set the global Java settings
 ## Memory
 ![](http://i.imgur.com/v3hDYQG.png)
 
-This is where you can set the global memory settings for java, you may want to set the setting higher. If you are using java 32bit the max is around 1500MB.
+Checkout [[Increasing Java's memory allocation]]
 
 ## Java Runtime
 ![](http://i.imgur.com/8vqU9yK.png)
