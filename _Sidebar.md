@@ -20,6 +20,7 @@
 * [[Instance Versions]]
 * [[Instance settings]]
 * [[Loader mods]]
+* [[Exporting an Instance]]
 * [[Resource packs]]
 * [[Screenshots management]]
 * [[Notes]]
