@@ -6,7 +6,7 @@
 * [[Feedback]]
 * [[Tips and Tricks]]
 
-**Multicraft Help**
+**MultiMC Help**
 
 * [[MultiMC settings]]
 * [[Minecraft settings]]
