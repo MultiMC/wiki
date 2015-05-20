@@ -3,7 +3,6 @@
 * [[Home]]
 * [[FAQ]]
 * [[Getting Started]]
-* [[Import Instance]]
 * [[Feedback]]
 * [[Tips and Tricks]]
 
@@ -20,6 +19,7 @@
 * [[Instance Versions]]
 * [[Instance settings]]
 * [[Loader mods]]
+* [[Import Instance]]
 * [[Export Instance]]
 * [[Resource packs]]
 * [[Screenshots management]]
