@@ -10,10 +10,10 @@
 
 * [[MultiMC settings]]
 * [[Minecraft settings]]
+* [[Minecraft Logs]]
 * [[Java settings]]
 * [[Proxy settings]]
 * [[Tools]]
-* [[Minecraft Logs]]
 
 **Instance Help**
 
