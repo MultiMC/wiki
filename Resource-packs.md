@@ -1,4 +1,4 @@
-![Resource pack view](https://i.imgur.com/ybvDoLx.png)
+![Resource pack view](http://i.imgur.com/VozXzYK.png)
 
 This page reflects the contents of the instance's resourcepacks folder and is used for the game to load alternative resource packs, which you can download from the internet.
 
