@@ -15,7 +15,7 @@
  * If your version of Java does not show up, please file an issue [here](Reporting Issues)
 2. You will be presented with this screen:
 
-![](images/InitialScreen.png)
+![](http://i.imgur.com/Du2xsmI.png)
 
 Explanation:
 
@@ -23,7 +23,7 @@ Explanation:
 2. Instance folder/Mods folder/Reload instance list
 3. Check for updates/Settings
 4. Bug reports/Information
-5. It's a fluffy kitty :3
+5. Donate to MultiMC devs
 6. Accounts
 7. Instance actions (available once an instance has been selected)
 8. News
@@ -33,12 +33,12 @@ Explanation:
 
 1. Start by clicking on the face in the top right corner and then _Manage Accounts_
 2. Click _Add_ and then enter your Mojang login credentials before clicking Ok
-3. You can add multiple accounts. If you do you might want to select one as default.
+3. You can add multiple accounts. If you do you might want to select one as default. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
 
 ### Creating an instance
 
 1. Click on the top left button
-2. Chose a name for the instance, which version of Minecraft it should be and an icon
+2. Chose a name for the instance, which version of Minecraft it should be and an icon by clicking on the default icon image.
  * You can also add custom icons from the icon dialog
 3. Click Ok
 4. MultiMC will now download all necessary files. This may take several minutes.
@@ -53,7 +53,7 @@ This might not be available on all versions of Minecraft
 ## Adding mods
 
 1. Select an instance, _Edit Mods_, _Loader Mods_ tab or _Core Mods_ tab (pre-1.6 only)
-2. _Add_ and select the mod(s) to add
+2. _Add_ and select the mod(s) to add from you computer
 
 # What next?
 
