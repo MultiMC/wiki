@@ -13,6 +13,7 @@
 * [[MultiMC settings]]
 * [[Minecraft settings]]
 * [[Java settings]]
+* [[Proxy settings]]
 * [[Instance version]]
 * [[Loader mods]]
 * [[Instance settings]]
