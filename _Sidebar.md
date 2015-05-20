@@ -13,6 +13,7 @@
 * [[Java settings]]
 * [[Proxy settings]]
 * [[Tools]]
+* [[Minecraft Logs]]
 
 **Instance Help**
 
@@ -28,7 +29,6 @@
 **Technical & In-depth**
 
 * [[JSON Patches]]
-* [[Minecraft Logs]]
 * [[Directory Structure]]
 
 **External**
