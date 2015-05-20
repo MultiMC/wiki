@@ -35,9 +35,4 @@
 
 * [Homepage](http://multimc.org)
 * [[Tutorials]]
-
-**For developers**
-
-* ~~[Roadmap](https://www.pivotaltracker.com/s/projects/869353)~~
-* [Workboard](https://waffle.io/multimc/multimc5)
-* [CI](http://ci.multimc.org/)
+* [[Developers]]
