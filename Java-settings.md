@@ -1,7 +1,6 @@
 Here you can set the global Java settings
 
 ## Memory
-![](http://i.imgur.com/v3hDYQG.png)
 
 Checkout [[Increasing Java's memory allocation]]
 
