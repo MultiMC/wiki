@@ -14,7 +14,7 @@
 * [[Minecraft settings]]
 * [[Java settings]]
 * [[Proxy settings]]
-* [[Instance version]]
+* [[Instance Versions]]
 * [[Loader mods]]
 * [[Instance settings]]
 * [[Screenshots management]]
