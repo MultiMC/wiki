@@ -1,6 +1,6 @@
 # IMPORTANT
 
-Please follow the following guidelines to speed up the processing of issues and feature requests.
+Please follow the following guidelines to speed up the processing of issues and feature requests. Submit [feedback](https://github.com/MultiMC/MultiMC5/issues/new).
 
 ### General
 
@@ -8,6 +8,7 @@ Please follow the following guidelines to speed up the processing of issues and 
  * Go [here](https://github.com/MultiMC/MultiMC5/search?type=Issues) to search
 
 ### Issues
+Always make sure your issue isn't already answered in the [[FAQ]]. Make sure it's not a Minecraft [bug](https://bugs.mojang.com/browse/MC) ethier.
 
 * If Minecraft crashes, **ALWAYS** upload the **FULL** log using the _Upload Log_ button
  * If the console window disappears to quickly go to the Settings, _Minecraft_ tab, _Console Settings_ and adjust make sure the second box is unchecked
