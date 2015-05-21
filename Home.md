@@ -19,6 +19,8 @@ For further navigation please check the sidebar to the right
 * LWJGL version changing built-in
 * Supports every version of Minecraft that the vanilla launcher does
 * Upload screenshots
+* Import, export Instances allowing you to share with friends and/or make backups
+* fluffy kitty
 
 ***
 
