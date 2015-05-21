@@ -5,7 +5,7 @@
 * [[Getting Started]]
 * [[Feedback]]
 * [[Tips and Tricks]]
-* [[Troubleshooting]]
+* [[Report a Bug]]
 
 **MultiMC Help**
 
