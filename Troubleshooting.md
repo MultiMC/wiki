@@ -13,4 +13,4 @@ Makes sure that all the mods for the instance you are launching is for the versi
 Whether you're loading forge mods or liteloader mods, they all need to be added via. loader mods, jar mods are added to the minecraft jar, which only forge=, liteloader & mods **that specifically specify** to be put in the mc jar.
 
 ***
-Still having issues or your problem isn't listed here? Go and search for your problem [here](https://github.com/MultiMC/MultiMC5/issues) & see if someone else has the same issue. Still no luck? Make a new [issue](https://github.com/MultiMC/MultiMC5/issues/new) & include your log. Make sure to use the upload button reporting a bug!
+Still having issues or your problem isn't listed here? Go and search for your problem [here](https://github.com/MultiMC/MultiMC5/issues) & see if someone else has the same issue. Still no luck? Make a new [issue](https://github.com/MultiMC/MultiMC5/issues/new) & include your log. Make sure to use the upload button when reporting a bug!
