@@ -1,15 +1,9 @@
 Having some issues? here are some common issues and the solutions to them.
 
 ## "Failed to create virtual machine"
-
-***
-
 This probably means you're trying to run Minecraft with 32bit java and have set more than 1GB of ram. Go checkout [[Increasing Java's memory allocation]]
 
 ## Other issues
-
-***
-
 Some issue text here
 
 
