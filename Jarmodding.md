@@ -30,8 +30,6 @@ TODO: Add more mods here
 
 \** MCPatcher can be made working, see [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100#entry29778001) and a few posts up
 
-\*** [Minecrift](https://github.com/MultiMC/MultiMC5/wiki/Minecrift) is special. See its wiki page for more info.
-
 ### More on launchwrapper (kinda more for modders)
 
 Launchwrapper is a library supplied by mojang for injecting bytecode into the game in a cleaner way. Mojang use it for launching legacy instances from the new launcher. The code for the library is available [here](https://github.com/Mojang/LegacyLauncher). It is also used by MinecraftForge, LiteLoader, OptiFine and a few others for "cleanly" injecting stuff into the game. For using launchwrapper, you do not have to do anything to the minecraft jar, it's as simple as adding
