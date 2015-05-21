@@ -10,4 +10,8 @@ Has the issue been [reported](https://github.com/MultiMC/MultiMC5/issues) yet? (
 Is it a Minecraft [bug](https://bugs.mojang.com/browse/MC)? (Make sure to search!) If not proceed to step 4
 
 ### #4
-If your still having issues and you have checked everywhere else then go ahead and make an [issue](https://github.com/MultiMC/MultiMC5/issues/new). Make sure to press the upload button in the launcher and paste the link to your issue. If the issue is with MultiMC make sure to paste your MultiMC log (MultiMC-0.log) to [Pastebin](http://pastebin.com).
+If you're still having issues and you have checked everywhere else then go ahead and make an [issue](https://github.com/MultiMC/MultiMC5/issues/new).
+
+If the problem is related to launching Minecraft, make sure to press the upload button in the launcher and paste the link to your issue.
+
+If the issue is with MultiMC make sure to paste your MultiMC log (MultiMC-0.log) to [Pastebin](http://pastebin.com).
