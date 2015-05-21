@@ -24,6 +24,7 @@
 * [[Export Instance]]
 * [[Resource packs]]
 * [[Screenshots management]]
+* [[Jar Modding]]
 * [[Notes]]
 
 **Technical & In-depth**
