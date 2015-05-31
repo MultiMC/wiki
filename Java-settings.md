@@ -2,7 +2,7 @@ Here you can set the global Java settings
 
 ## Memory
 
-Checkout [[Increasing Java's memory allocation]]
+See [[Increasing Java's memory allocation]]
 
 ## Java Runtime
 ![](http://i.imgur.com/8vqU9yK.png)
