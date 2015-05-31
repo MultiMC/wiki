@@ -17,18 +17,20 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 
 ### List of jarmods
 
-| Name      | Forge | Launchwrapper |
-| --------- | ----- | ------------- |
-| OptiFine  | Yes   | Yes*          |
-| MCPatcher | No    | No**          |
-| Minecrift | NO    | Yes***        |
-| ShadersModCore | Yes | Yes: [Gist by peterix](https://gist.github.com/peterix/a4f61bae356ca878a93f) |
+| Name      | Forge | Launchwrapper | Workaround |
+| --------- | ----- | ------------- |------------|
+| OptiFine  | Yes   | Yes*          |            |
+| MCPatcher | No    | No**          | Yes***     |
+| Minecrift | NO    | Yes        |            |
+| ShadersModCore | Yes | Yes: [Gist by peterix](https://gist.github.com/peterix/a4f61bae356ca878a93f) | |
 
 TODO: Add more mods here
 
 \* See [[MultiMC and Optifine]] for how to install optifine without forge, using launchwrapper
 
-\** MCPatcher can be made working, see [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100#entry29778001) and a few posts up
+\** MCPatcher can be made working with launchwrapper using a library extracted from an FTB pack, see posts here: [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100)
+
+\*** The other approach is to use the vainlla launcher and the MCPatcher to create a patched Minecraft jar and then use that as a jar mod in MultiMC. It's a bit dirty but it works.
 
 ### More on launchwrapper (kinda more for modders)
 
