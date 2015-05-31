@@ -21,4 +21,4 @@ This is where the settings for the Java runtime live, like the location of the r
 **Pre-launch command** runs before the instance launches and **Post-exit command** runs after it exits.
 Both will be run in MultiMC's working directory with INST_ID, INST_DIR, and INST_NAME as environment variables.
 
-**Wrapper command** allows running java using an extra wrapper program (like 'optirun' on Linux, for use with optimus graphics laptops)
+**Wrapper command** allows running java using an extra wrapper program (like `optirun` on Linux, for use with optimus graphics laptops)
