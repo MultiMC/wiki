@@ -7,9 +7,6 @@ Makes sure that all the mods for the instance you are launching are for the vers
 #### Putting forge/LiteLoader mods in jar mods instead of loader mods
 Whether you're loading forge mods or LiteLoader mods, they all need to be added via. loader mods. Jar mods are added to the Minecraft jar, and that is a rare occurrence with most recent mods.
 
-#### Why am I getting weird crashes and/or slow rendering with a NVidia Optimus graphics card on Windows?
-There's some black magic going on here, try renaming MultiMC.exe to Minecraft.exe.
-
 ## Graphics issues
 
 ### Hybrid laptop graphics (optimus and similar)
