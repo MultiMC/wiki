@@ -10,6 +10,19 @@ Whether you're loading forge mods or LiteLoader mods, they all need to be added 
 #### Why am I getting weird crashes and/or slow rendering with a NVidia Optimus graphics card on Windows?
 There's some black magic going on here, try renaming MultiMC.exe to Minecraft.exe.
 
+## Graphics issues
+
+### Hybrid laptop graphics (optimus and similar)
+If you get slow rendering and Minecraft using the integrated graphics card instead of the dedicated one, there are some ways to fix that:
+
+#### Windows
+Rename `MultiMC.exe` to `Minecraft.exe`. In general, the graphics drivers look for the binary name in order to enable the dedicated GPU. This fools them into enabling it.
+
+The same applies to many other situations where graphics are an issue on Windows: Rename the .exe and it might just work better.
+
+#### Linux
+You can use the [Wrapper command option in the Java settings](https://github.com/MultiMC/MultiMC5/wiki/Java-settings#custom-commands) together with `optirun` or similar wrappers.
+
 ## Can't log in
 Minecraft login can be blocked by several issues:
 
