@@ -18,7 +18,7 @@
 
 **Instance Help**
 
-* [[Instance Versions]]
+* [[Instance Version]]
 * [[Instance settings]]
 * [[Loader mods]]
 * [[Import Instance]]
