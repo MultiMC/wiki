@@ -5,7 +5,7 @@ Importing Instances allows users to import a zipped modpack.
 ### How to Import
 When creating a new instance, select the second option to _Import Modpack (local file or link)_. The text bow will allow users to add a url where the modpack is stored. The square button to the right side of the text bow will allow users to find the modpack on the local computer. 
 
-* Currently, only modpacks with the _.zip_ extension can be added.
+* Currently, only modpacks (instances) that were originally exported by MultiMC can be imported.
 
 ### What is required to Import
 The main component of a modpack is the _/minecraft_ folder. This is where all of the basic files are located including options.txt, saves and resourcepacks. Optionally, users can add custom instance versions in the _/patches_ folder and jarmods in the _/jarmods_ folder. These are the only folders that are allowed outside of the _/minecraft_ folder.
