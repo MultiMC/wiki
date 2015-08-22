@@ -33,3 +33,20 @@ Generally, you can detect this by looking at the status icons on the lower right
 
 #### Secure access problems
 If the access to the Mojang auth servers is compromised or impossible, you will get a scary error message. Please report these as bugs, along with uploading the MultiMC log file (MultiMC-0.log).
+
+## Folders
+
+### Copy contents of x folder
+There may come a time when you have many files all over, or have an ssd and want to save as much space as possible. Instead of giving you the ablility to copy over/keep updated a second folder for you, we'll walk you through how to use features already in you OS to do so.
+
+#### Windows
+Just like Linux, you just have to type one command,
+
+```mklink /j "c:\users\Will\Desktop\multimc\mods" c:\users\Will\.minecraft\mods```
+
+The following command makes a linked folder or symlink from .minecraft\mods to multimc\mods
+
+#### Linux
+The linux command is a little easier,
+
+```ln -s /home/Will/.minecraft/mods /home/Will/multimc/mods```
