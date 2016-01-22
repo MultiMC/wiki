@@ -17,4 +17,4 @@ Importing will expanded upon in the near future to allow for importing of modpac
 * Vanilla Launcher
 * FTB Launcher
 * ATLauncher
-* Tekkit Launcher
+* Technic Launcher
