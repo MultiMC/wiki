@@ -12,6 +12,7 @@
 * [[MultiMC settings]]
 * [[Minecraft settings]]
 * [[Minecraft Logs]]
+* [[Log Upload]]
 * [[Java settings]]
 * [[Proxy settings]]
 * [[Tools]]
