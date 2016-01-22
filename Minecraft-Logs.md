@@ -2,9 +2,9 @@
 
 # Minecraft Log page
 
-![Minecraft Log page](https://i.imgur.com/NIU8473.png)
+![Minecraft Log page](https://i.imgur.com/l8EKLi1.png)
 
-This page is available when running an instance. It shows the main minecraft output and updates in real time. It has functions for uploading the log to [paste.ee](http://paste.ee/) and copying the log to the clipboard.
+This page is available when running an instance. It shows the main minecraft output and updates in real time. It has functions for uploading the log to [paste.ee](http://paste.ee/), copying the log to the clipboard, and clearing the log input (useful if you have a long log).
 
 # The Other Logs page
 
