@@ -2,7 +2,7 @@ The instance settings allow you to override the global MultiMC settings for a pa
 The settings are divided in sections, each with a checkbox, which enables the override.
 
 ##Java installation
-![](http://i.imgur.com/9YGmowk.png)
+![](https://i.imgur.com/0w3vgnE.png)
 
 Here, you can either directly insert the java runtime you want to use, let MultiMC detect it automatically (probably the best option), look for it using a file browser and test the currently selected one.
 
