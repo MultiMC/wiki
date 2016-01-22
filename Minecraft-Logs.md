@@ -10,4 +10,4 @@ This page is available when running an instance. It shows the main minecraft out
 
 ![Other Logs page](https://i.imgur.com/bI38nbf.png)
 
-This page is available both when running the instance and when not. It allows viewing of all detected log files within the current instance, as well as uploading and copying them to the clipboard. You can also clean them, which works the same as with the main Minecraft log.
+This page is available both when running the instance and when not. It allows viewing of all detected log files within the current instance, as well as uploading and copying them to the clipboard. You can also clean them, which removes all the logs from the instance.
