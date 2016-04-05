@@ -26,7 +26,6 @@ Just use OptiFine like any other Forge mod
     "fileId": "optifine.OptiFine",
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "mcVersion": "<Version Of Minecraft>",
-    "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} ",
     "name": "OptiFine",
     "order": 200,
     "version": "<Version Of Optifine>"
