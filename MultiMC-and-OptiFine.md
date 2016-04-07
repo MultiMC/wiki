@@ -13,16 +13,18 @@ Just use OptiFine like any other Forge mod
     "+libraries": [
         {
             "insert": "prepend",
-            "name": "net.minecraft:launchwrapper:1.8"
+            "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "insert": "prepend",
-            "MMC-depend": "hard",
             "MMC-hint": "local",
             "name": "optifine:OptiFine:<Version Of OptiFine>"
+        },
+        {
+            "name": "org.multimc.hacks:OptiFineHack:1",
+            "MMC-absoluteUrl": "http://files.multimc.org/downloads/OptiFineHack-1.jar"
         }
     ],
-    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "+tweakers": [ "org.multimc.hacks.OptiFineHackTweaker" ],
     "fileId": "optifine.OptiFine",
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "mcVersion": "<Version Of Minecraft>",
