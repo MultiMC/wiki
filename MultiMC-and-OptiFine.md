@@ -12,12 +12,11 @@ Just use OptiFine like any other Forge mod
 {
     "+libraries": [
         {
-            "insert": "prepend",
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "MMC-hint": "local",
-            "name": "optifine:OptiFine:<Version Of OptiFine>"
+            "name": "optifine:OptiFine:<Version Of OptiFine>",
+            "MMC-hint": "local"
         },
         {
             "name": "org.multimc.hacks:OptiFineHack:1",
