@@ -4,9 +4,11 @@ Just use OptiFine like any other Forge mod
 
 ## Minecraft versions that don't have Forge
 
-* Make a new instance in MultiMC with the wanted version of Minecraft
-* Open the instance directory
-* Create a file in `patches/` called `optifine.json` and paste the following into it:
+* Make a new instance in MultiMC with the wanted version of Minecraft.
+* Open the instance folder
+* If there isn't a `patches` folder, create one.
+* Open the `patches` folder.
+* Create a file called `optifine.json` in there, open it in a text editor and paste the following into it:
 ```
 {
     "+libraries": [
@@ -33,8 +35,8 @@ Just use OptiFine like any other Forge mod
 ```
 * Replace `<Version Of OptiFine>` in the `optifine.json` file with the OptiFine version (1.7.4_HD_U_C7 for example).
 * Replace `<Version Of Minecraft>` in the file with the version of Minecraft (1.7.4 for example)
-* Save the file
-* Download OptiFine and put the file into `<MMC>/libraries/optifine/OptiFine/<version of optifine>/`
+* Save the file and close the text editor (from now on, you can open the file from MultiMC in the instance's `version` tab)
+* Download OptiFine and put the jar file into `<MMC>/libraries/optifine/OptiFine/<version of optifine>/`
 * Rename the file to `OptiFine-<Version Of OptiFine>.jar`, where `<Version Of OptiFine>` is the part of the downloaded file name after the first underscore. This means OptiFine_1.7.4_HD_U_C7.jar gets renamed to OptiFine-1.7.4_HD_U_C7.jar.
 7. Launch the instance from MultiMC
 
