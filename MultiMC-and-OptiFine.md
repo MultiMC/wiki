@@ -16,7 +16,7 @@ Just use OptiFine like any other Forge mod
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "name": "optifine:OptiFine:<Version Of OptiFine>",
+            "name": "optifine:OptiFine:1.9.2_HD_U_B1",
             "MMC-hint": "local"
         },
         {
@@ -27,17 +27,17 @@ Just use OptiFine like any other Forge mod
     "+tweakers": [ "org.multimc.hacks.OptiFineHackTweaker" ],
     "fileId": "optifine.OptiFine",
     "mainClass": "net.minecraft.launchwrapper.Launch",
-    "mcVersion": "<Version Of Minecraft>",
+    "mcVersion": "1.9.2",
     "name": "OptiFine",
     "order": 200,
-    "version": "<Version Of Optifine>"
+    "version": "1.9.2_HD_U_B1"
 }
 ```
-* Replace `<Version Of OptiFine>` in the `optifine.json` file with the OptiFine version (1.7.4_HD_U_C7 for example).
-* Replace `<Version Of Minecraft>` in the file with the version of Minecraft (1.7.4 for example)
+* If you use a different version of Optifine, replace the `1.9.2_HD_U_B1` with your version.
+* If you use a different version of Minecraft, replace the `1.9.2` with your version.
 * Save the file and close the text editor (from now on, you can open the file from MultiMC in the instance's `version` tab)
-* Download OptiFine and put the jar file into `<MMC>/libraries/optifine/OptiFine/<version of optifine>/`
-* Rename the file to `OptiFine-<Version Of OptiFine>.jar`, where `<Version Of OptiFine>` is the part of the downloaded file name after the first underscore. This means OptiFine_1.7.4_HD_U_C7.jar gets renamed to OptiFine-1.7.4_HD_U_C7.jar.
+* Download OptiFine and put the jar file into `<MMC>/libraries/optifine/OptiFine/1.9.2_HD_U_B1/` (again, replace the version if you use a different one). Create the folders if they are missing.
+* Rename the jar file to `OptiFine-1.9.2_HD_U_B1.jar` (again, replace version). You basically replace the first underscore with a dash.
 7. Launch the instance from MultiMC
 
 ### Troubleshooting and FAQ
