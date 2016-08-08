@@ -40,6 +40,11 @@ Just use OptiFine like any other Forge mod
 * Rename the jar file to `OptiFine-1.9.2_HD_U_B1.jar` (again, replace version). You basically replace the first underscore with a dash.
 7. Launch the instance from MultiMC
 
+### Example for Minecraft 1.10.2 (extra hack jar is no longer necessary)
+
+See:
+https://gist.github.com/peterix/5c8b655ffafb866ccb2519f421dab671
+
 ### Troubleshooting and FAQ
 
 * `java.lang.ClassDefNotFound: ...`: make sure that the path to OptiFine that's outputted on the console is actually pointing to the file you downloaded.
