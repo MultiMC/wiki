@@ -36,7 +36,7 @@ Just use OptiFine like any other Forge mod
 * If you use a different version of Optifine, replace the `1.9.2_HD_U_B1` with your version.
 * If you use a different version of Minecraft, replace the `1.9.2` with your version.
 * Save the file and close the text editor (from now on, you can open the file from MultiMC in the instance's `version` tab)
-* Download OptiFine and save the jar file as `<Instance>/libraries/OptiFine-1.9.2_HD_U_B1.jar` - you have to replace the first underscore with a dash and obviously replace the version to match.
+* Download OptiFine and save the jar file as `<Instance>/libraries/OptiFine-1.9.2_HD_U_B1.jar` - compared to the original file, you have to replace the first underscore with a dash and obviously replace the version to match yours.
 7. Launch the instance from MultiMC
 
 ### Example for Minecraft 1.10.2 (extra hack jar is no longer necessary)
