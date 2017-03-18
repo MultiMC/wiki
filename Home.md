@@ -8,7 +8,7 @@ If you are new to MultiMC you probably want to check out [[Getting Started]]
 
 For further navigation please check the sidebar to the right
 
-##Features
+## Features
 * Manage multiple instances of Minecraft at once
 * Start Minecraft with a custom resolution
 * Change Java's runtime options (including memory options)
