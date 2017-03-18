@@ -14,4 +14,4 @@ If you're still having issues and you have checked everywhere else then go ahead
 
 If the problem is related to launching Minecraft, make sure to press the upload button in the launcher and paste the link to your issue.
 
-If the issue is with MultiMC make sure to paste your MultiMC log (MultiMC-0.log) to [Pastebin](http://pastebin.com).
+If the issue is with MultiMC make sure to paste your MultiMC log (MultiMC-0.log) to [Pastebin](http://pastebin.com) or a [similar site](https://paste.ee).
