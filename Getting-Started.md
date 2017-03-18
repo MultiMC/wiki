@@ -11,8 +11,8 @@
 ## Initial setup
 
 1. Once launched, you will be prompted for which version of java to use.
- * You should use a 64bit Java if you are on a 64bit OS
- * If your version of Java does not show up, please file an issue [here](Reporting Issues)
+ * You should use a 64bit Java if you are on a 64bit OS.
+ * If your version of Java does not show up, please file an issue [here](https://github.com/MultiMC/MultiMC5/wiki/Report-a-Bug), on the [IRC](http://webchat.esper.net/?nick=&channels=MultiMC) or on our [Discord Server](https://discordapp.com/invite/98JHQ).
 2. You will be presented with this screen:
 
 ![](http://i.imgur.com/Du2xsmI.png)
