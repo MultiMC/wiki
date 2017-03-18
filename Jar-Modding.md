@@ -13,7 +13,7 @@ If you are a user who wants to install a jar mod with MultiMC you have three opt
 
 1. Find out if the mod can be installed in any other way (see next header)
 2. Go and ask the author of the mod to fix his stuff. Give them the link to this page.
-4. MultiMC does include jar mod support. However, we would like to discourage the use of those. If you have other options, please use them. If not, you can add jar mods in the [[Instance Versions]] page of the Edit instance dialog.
+4. MultiMC does include jar mod support. However, we would like to discourage the use of those. If you have other options, please use them. If not, you can add jar mods in the [[Instance Version]] page of the Edit instance dialog.
 
 ### List of jarmods
 
