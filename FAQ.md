@@ -68,6 +68,7 @@ The linux command is a little easier,
 
 ### Solution 1: Get a better PC
 _Self-explanatory_
+
 If you want advice and suggestions on what kind of computer or computer components to get within a certain budget, ask in the #advice channel of [GadgetWorks' Discord server](https://discord.gg/Qqbddqg).
 
 ### Solution 2: Lower your settings
