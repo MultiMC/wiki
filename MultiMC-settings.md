@@ -28,6 +28,9 @@ Here you can select the icon theme of MultiMC, here are the current ones
 * Simple light
 ![](http://i.imgur.com/0tyoSgh.png)
 
+* Simple light (with Dark theme)
+![](http://i.imgur.com/HHI3gVy.png)
+
 * Simple blue
 ![](http://i.imgur.com/jgEY5xN.png)
 
