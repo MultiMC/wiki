@@ -13,6 +13,8 @@ If you are trying to load a heavy instance with lots of mods, you may need to al
 2. Under the Java tab, check the "Memory" checkbox
 3. Raise the "Maximum memory allocation" to 2048MB
 
+More details here: https://github.com/MultiMC/MultiMC5/wiki/Increasing-Java%27s-memory-allocation
+
 ## Graphics issues
 
 ### Hybrid laptop graphics (optimus and similar)
