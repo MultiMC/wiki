@@ -31,9 +31,9 @@ You can use the [Wrapper command option in the Java settings](https://github.com
 ### OpenGL format not accelerated or graphical glitches ingame
 You need to update your graphics drivers. If they are already the latest, your graphics card is too old.
 
-AMD: http://support.amd.com/en-us/download
-NVidia: http://www.nvidia.com/Download/index.aspx?lang=en-us
-Intel: https://downloadcenter.intel.com/
+- AMD: http://support.amd.com/en-us/download
+- NVidia: http://www.nvidia.com/Download/index.aspx?lang=en-us
+- Intel: https://downloadcenter.intel.com/
 
 ## Can't log in
 Minecraft login can be blocked by several issues:
