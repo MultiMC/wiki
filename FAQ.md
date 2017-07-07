@@ -1,4 +1,4 @@
-## Minecraft not launching
+## Minecraft not launching or crashing on launch
 There are many issues possible for this, here are some issues and solutions.
 
 #### Mods are a different version
@@ -6,6 +6,12 @@ Makes sure that all the mods for the instance you are launching are for the vers
 
 #### Putting forge/LiteLoader mods in jar mods instead of loader mods
 Whether you're loading forge mods or LiteLoader mods, they all need to be added via. loader mods. Jar mods are added to the Minecraft jar, and that is a rare occurrence with most recent mods.
+
+### Insufficient memory allocated to Java
+If you are trying to load a heavy instance with lots of mods, you may need to allocate more maximum memory to the instance. You can do this by:
+1. Right click the instance and choose "Instance settings"
+2. Under the Java tab, check the "Memory" checkbox
+3. Raise the "Maximum memory allocation" to 2048MB
 
 ## Graphics issues
 
@@ -21,6 +27,13 @@ Rename the .exe and it might just work better.
 
 #### Linux
 You can use the [Wrapper command option in the Java settings](https://github.com/MultiMC/MultiMC5/wiki/Java-settings#custom-commands) together with `optirun` or similar wrappers.
+
+### OpenGL format not accelerated or graphical glitches ingame
+You need to update your graphics drivers. If they are already the latest, your graphics card is too old.
+
+AMD: http://support.amd.com/en-us/download
+NVidia: http://www.nvidia.com/Download/index.aspx?lang=en-us
+Intel: https://downloadcenter.intel.com/
 
 ## Can't log in
 Minecraft login can be blocked by several issues:
@@ -50,3 +63,36 @@ The following command makes a linked folder or symlink from .minecraft\mods to m
 The linux command is a little easier,
 
 ```ln -s /home/Will/.minecraft/mods /home/Will/multimc/mods```
+
+## Poor performance and/or lag ingame
+
+### Solution 1: Get a better PC
+_Self-explanatory_
+If you want advice and suggestions on what kind of computer or computer components to get within a certain budget, ask in the #advice channel of [GadgetWorks' Discord server](https://discord.gg/Qqbddqg).
+
+### Solution 2: Lower your settings
+1. On Minecraft's main menu, click "Options"
+2. Click "Video settings"
+3. Lower the render distance
+4. Set "Graphics" to "Fast" instead of "Fancy"
+5. Set "Smooth Lighting" to "Minimum" instead of "Maximum"
+6. Turn on VBOs if the option is available (will yield a large performance boost on AMD systems)
+
+### Solution 3: Reduce un-necessary third-party background processes (Windows)
+Sometimes (or often if you're click happy or a more novice user), you end up installing PUPs on your PC along with what you intended to install, which then adds bloat and causes performance regression - especially on the CPU side of things which Minecraft is most sensitive to.
+
+Use the follow steps to help reduce the amount of third-party background processes (these instructions apply to Windows 8/8.1/10 - if you are using Windows 7, consider upgrading to a newer and more efficient OS first):
+1. Press Ctrl + Alt + Del and open Task Manager
+2. Go to the Startup tab in Task Manager
+3. Click on "Startup impact" so that it sorts the items from highest impact to lowest impact
+4. Click on a each high impact item you don't want running in the background constantly as soon as your computer turns on and click the Disable button.
+5. Do the same for medium impact items.
+**NOTE: Do not disable startup items by the publishers AMD, Intel, NVidia, Realtek or Microsoft as these may be required for your computer to work optimally.** 
+
+6. Close task manager and press Win + R to open the run prompt
+7. Enter `msconfig` in the run prompt (without the "") and click "OK"
+8. Go to the Services tab and make sure the "Hide all Microsoft services" checkbox is checked
+9. Same as with the startup items, disable any third-party background services you don't want running in the background
+**WARNING: Do not disable services by the publishers AMD, Intel, NVidia, Realtek or Microsoft as these are required for your computer to work properly.** 
+
+10. Finally, restart your computer to apply the changes. If anything goes wrong, undo your changes by following these steps backwards or contact [GadgetWorks](https://discord.gg/Qqbddqg) for free help and support.
