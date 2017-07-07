@@ -17,13 +17,13 @@ Here, you can add the various components that make up the base of the instance a
 
   * **Revert**: By default, MultiMC stores a copy of the original, un-customized file so if you no longer wish to keep saved changes to the .json file, they can be restored to the original versions.
 
-##Install
+## Install
 
   * **Install Forge/Liteloader**: These install buttons are *THE ONLY* way to install Forge and LiteLoader in MultiMC. Their original installers do not work here. Advanced users can edit these mod-loaders (see editing components above).
 
   * **Install mods**: Opens the mods page for quick access to the "mods" folder for adding mods.
 
-##Advanced
+## Advanced
 
   * **Add Jar Mod**: Mods that you would normally have to add to the minecraft jar file can be added here. Now days, most mods should be installed in the mods folder and use a mod-loader to launch.
 In general, these should be added below the mod-loaders that you have installed. Typically if there is an issue while launching with jar mods, try re-ordering them with the 'Move up' and 'Move down' buttons to see if one overrides the other. Mods lower in the list override the ones above them. 
