@@ -30,7 +30,7 @@ TODO: Add more mods here
 
 \** MCPatcher can be made working with launchwrapper using a library extracted from an FTB pack, see posts here: [here](http://www.minecraftforum.net/topic/1000645-multimc-5-windows-linux-mac/page__st__4100)
 
-\*** The other approach is to use the vainlla launcher and the MCPatcher to create a patched Minecraft jar and then use that as a jar mod in MultiMC. It's a bit dirty but it works.
+\*** The other approach is to use the vanilla launcher and the MCPatcher to create a patched Minecraft jar and then use that as a jar mod in MultiMC. It's a bit dirty but it works.
 
 ### More on launchwrapper (kinda more for modders)
 
