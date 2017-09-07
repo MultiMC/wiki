@@ -16,6 +16,7 @@
 * [[Java settings]]
 * [[Proxy settings]]
 * [[Tools]]
+* [[Switching update channels]]
 
 **Instance Help**
 
