@@ -1,5 +1,7 @@
 You can switch between update channels in the settings:
 
+![Opening the settings](https://i.imgur.com/pG0pfhW.png)
+
 ![Switching update channels](https://i.imgur.com/W2cYlXR.png)
 
 * Stable channel is the latest official release.
