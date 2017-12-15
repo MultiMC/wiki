@@ -1,5 +1,5 @@
 ## Minecraft not launching or crashing on launch
-There are many issues possible for this, here are some issues and solutions.
+There are many issues possible with this, here are some issues and solutions.
 
 ### Mods are a different version
 Makes sure that all the mods for the instance you are launching are for the version of Minecraft you're launching -- eg. 1.6.4 mods for Minecraft 1.6.4, 1.7.10 mods for Minecraft 1.7.10 and so on.
@@ -9,7 +9,7 @@ Whether you're loading forge mods or LiteLoader mods, they all need to be added 
 
 ### Insufficient memory allocated to Java
 If you are trying to load a heavy instance with lots of mods, you may need to allocate more maximum memory to the instance. You can do this by:
-1. Right click the instance and choose "Instance settings"
+1. Right-click the instance and choose "Instance settings"
 2. Under the Java tab, check the "Memory" checkbox
 3. Raise the "Maximum memory allocation" to 2048MB
 
@@ -17,7 +17,7 @@ More details here: https://github.com/MultiMC/MultiMC5/wiki/Increasing-Java%27s-
 
 ## Graphics issues
 
-### Hybrid laptop graphics (optimus and similar)
+### Hybrid laptop graphics (Optimus and similar)
 If you get slow rendering and Minecraft using the integrated graphics card instead of the dedicated one, there are some ways to fix that:
 
 #### Windows
@@ -30,7 +30,7 @@ Rename the .exe and it might just work better.
 #### Linux
 You can use the [Wrapper command option in the Java settings](https://github.com/MultiMC/MultiMC5/wiki/Java-settings#custom-commands) together with `optirun` or similar wrappers.
 
-### OpenGL format not accelerated or graphical glitches ingame
+### OpenGL format not accelerated or graphical glitches in-game
 You need to update your graphics drivers. If they are already the latest, your graphics card is too old.
 
 - AMD: http://support.amd.com/en-us/download
@@ -52,7 +52,7 @@ If the access to the Mojang auth servers is compromised or impossible, you will 
 ## Folders
 
 ### Copy contents of x folder
-There may come a time when you have many files all over, or have an ssd and want to save as much space as possible. Instead of giving you the ablility to copy over/keep updated a second folder for you, we'll walk you through how to use features already in you OS to do so.
+There may come a time when you have many files all over, or have an SSD and want to save as much space as possible. Instead of giving you the ability to copy over/keep updated a second folder for you, we'll walk you through how to use features already in your OS to do so.
 
 #### Windows
 Just like Linux, you just have to type one command,
@@ -66,7 +66,7 @@ The linux command is a little easier,
 
 ```ln -s /home/Will/.minecraft/mods /home/Will/multimc/mods```
 
-## Poor performance and/or lag ingame
+## Poor performance and/or lag in game
 
 ### Solution 1: Get a better PC
 _Self-explanatory_
@@ -82,9 +82,9 @@ If you want advice and suggestions on what kind of computer or computer componen
 6. Turn on VBOs if the option is available (will yield a large performance boost on AMD systems)
 
 ### Solution 3: Reduce un-necessary third-party background processes (Windows)
-Sometimes (or often if you're click happy or a more novice user), you end up installing PUPs on your PC along with what you intended to install, which then adds bloat and causes performance regression - especially on the CPU side of things which Minecraft is most sensitive to.
+Sometimes (or often if you click happy or a more novice user), you end up installing PUPs on your PC along with what you intended to install, which then adds bloat and causes performance regression - especially on the CPU side of things which Minecraft is most sensitive to.
 
-Use the follow steps to help reduce the amount of third-party background processes (these instructions apply to Windows 8/8.1/10 - if you are using Windows 7, consider upgrading to a newer and more efficient OS first):
+Use the following steps to help reduce the number of third-party background processes (these instructions apply to Windows 8/8.1/10 - if you are using Windows 7, consider upgrading to a newer and more efficient OS first):
 1. Press Ctrl + Alt + Del and open Task Manager
 2. Go to the Startup tab in Task Manager
 3. Click on "Startup impact" so that it sorts the items from highest impact to lowest impact
