@@ -24,4 +24,4 @@ For further navigation please check the sidebar to the right
 
 ***
 
-![](http://dethware.org/pics/mmchelp/catbgrnd2.png)
+![](https://github.com/MultiMC/MultiMC5/raw/develop/application/resources/backgrounds/catbgrnd2.png)
