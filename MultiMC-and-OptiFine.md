@@ -49,6 +49,34 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
+#### Minecraft 1.7.2
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.7.2_HD_U_F3",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.7.2_HD_U_F3.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.7.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.7.2_HD_U_F3"
+}
+```
+
 ### Troubleshooting and FAQ
 
 * `java.lang.ClassDefNotFound: ...`: make sure that the path to OptiFine that's outputted on the console is actually pointing to the file you downloaded.
