@@ -9,7 +9,7 @@ Just use OptiFine like any other Forge mod
 * Click `Add Empty`.
 * Set `uid` to `optifine.OptiFine` and name to `OptiFine`.
 * Select the newly created component and click `Edit`. It should open in a text editor. If it doesn't, make sure your operating system is set up to open `.json` files in one.
-* Edit the JSON to look like one of the examples, then save the file. Most obvious mistakes will show up in the `Version` page.
+* Edit the JSON to look like one of the examples, then save the file. Most obvious mistakes will show up in the `Version` page as soon as you click the `Refresh` button.
 * Download OptiFine and save the jar file in `<Instance>/libraries/`
 * Launch the instance from MultiMC
 
