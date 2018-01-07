@@ -7,7 +7,7 @@ Just use OptiFine like any other Forge mod
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Click `Edit Instance` - it should open the `Version` page of the instance.
 * Click `Add Empty`.
-* Set `uid` to `optifine.OptiFine` and name to `OptiFine`.
+* Set uid to `optifine.OptiFine` and name to `OptiFine`.
 * Select the newly created component and click `Edit` - this should open the file in a text editor.
 * Edit the JSON to look like one of the examples, then save the file.
 * Download OptiFine and save the jar file in `<Instance>/libraries/`
