@@ -13,13 +13,209 @@ Just use OptiFine like any other Forge mod.
 * Download OptiFine and save the jar file in `<Instance>/libraries/`
 * Launch the instance from MultiMC
 
-If the example doesn't fit the OptiFine version exactly, you may have to change the versions in the file. For example replace all occurences of `1.7.10_HD_U_E3` with `1.7.10_HD_U_F1`.
+If the example doesn't fit the OptiFine version exactly, change the version. For example replace all occurences of `1.7.10_HD_U_E3` with `1.7.10_HD_U_F1`.
 
 You can use the version page to check the file for errors - obvious mistakes will show up in the `Version` page as soon as you click the `Refresh` button.
 
 If the JSON file doesn't open in a text editor, make sure your operating system is set up to open `.json` files in one first.
 
 ### Examples
+
+#### Minecraft 1.12.2
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.12.2_HD_U_C7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.12.2_HD_U_C7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.12.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.12.2_HD_U_C7"
+}
+```
+
+#### Minecraft 1.12.1
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.12.1_HD_U_C7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.12.1_HD_U_C7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.12.1"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.12.1_HD_U_C7"
+}
+```
+
+#### Minecraft 1.12
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.12_HD_U_C7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.12_HD_U_C7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.12"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.12_HD_U_C7"
+}
+```
+
+#### Minecraft 1.11.2
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.11.2_HD_U_C7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.11.2_HD_U_C7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.11.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.11.2_HD_U_C7"
+}
+```
+
+#### Minecraft 1.11
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.11_HD_U_C7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.11_HD_U_C7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.11"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.11_HD_U_C7"
+}
+```
+
+#### Minecraft 1.10.2
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.10.2_HD_U_E7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.10.2_HD_U_E7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.10.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.10.2_HD_U_E7"
+}
+```
+
+#### Minecraft 1.10
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.10_HD_U_E7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.10_HD_U_E7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.10"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.10_HD_U_E7"
+}
+```
 
 #### Minecraft 1.9.4
 ```
