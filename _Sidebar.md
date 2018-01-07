@@ -6,6 +6,7 @@
 * [[Feedback]]
 * [[Tips and Tricks]]
 * [[Report a Bug]]
+* [[MultiMC and OptiFine]]
 
 **MultiMC Help**
 
