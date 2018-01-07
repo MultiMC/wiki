@@ -8,12 +8,16 @@ Just use OptiFine like any other Forge mod
 * Click `Edit Instance` - it should open the `Version` page of the instance.
 * Click `Add Empty`.
 * Set `uid` to `optifine.OptiFine` and name to `OptiFine`.
-* Select the newly created component and click `Edit`. It should open in a text editor. If it doesn't, make sure your operating system is set up to open `.json` files in one.
-* Edit the JSON to look like one of the examples, then save the file. Most obvious mistakes will show up in the `Version` page as soon as you click the `Refresh` button.
+* Select the newly created component and click `Edit` - this should open the file in a text editor.
+* Edit the JSON to look like one of the examples, then save the file.
 * Download OptiFine and save the jar file in `<Instance>/libraries/`
 * Launch the instance from MultiMC
 
 If the example doesn't fit the OptiFine version exactly, you may have to change the versions in the file. For example replace all occurences of `1.7.10_HD_U_E3` with `1.7.10_HD_U_F1`.
+
+You can use the version page to check the file for errors - obvious mistakes will show up in the `Version` page as soon as you click the `Refresh` button.
+
+If the JSON file doesn't open in a text editor, make sure your operating system is set up to open `.json` files in one first.
 
 ### Examples
 
