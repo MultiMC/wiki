@@ -30,6 +30,10 @@
 * [[Jar Modding]]
 * [[Notes]]
 
+**Troubleshooting**
+* [[Uploading a log]]
+* [[Using DxDiag]]
+
 **Technical & In-depth**
 
 * [[JSON Patches]]
@@ -37,6 +41,6 @@
 
 **External**
 
-* [Homepage](http://multimc.org)
+* [Homepage](https://multimc.org)
 * [[Tutorials]]
 * [[Developers]]
