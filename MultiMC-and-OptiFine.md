@@ -1,6 +1,6 @@
 ## Minecraft versions which have Forge
 
-Just use OptiFine like any other Forge mod
+Just use OptiFine like any other Forge mod.
 
 ## Minecraft versions that don't have Forge
 
