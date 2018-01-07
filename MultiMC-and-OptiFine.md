@@ -21,6 +21,149 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 
 ### Examples
 
+#### Minecraft 1.9.4
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.9.4_HD_U_E7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.9.4_HD_U_E7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.9.4"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.9.4_HD_U_E7"
+}
+```
+
+#### Minecraft 1.9.2
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.9.2_HD_U_E3",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.9.2_HD_U_E3.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.9.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.9.2_HD_U_E3"
+}
+```
+
+#### Minecraft 1.9
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.9.0_HD_U_E7",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.9.0_HD_U_E7.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.9"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.9.0_HD_U_E7"
+}
+```
+
+#### Minecraft 1.8.9
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.8.9_HD_U_I3",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.8.9_HD_U_I3.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.8.9"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.8.9_HD_U_I3"
+}
+```
+
+#### Minecraft 1.8.8
+This one is currently broken. The 1.8.8 download is 1.8.9 and it fails to load. 
+
+#### Minecraft 1.8
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.8.0_HD_U_I3",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.8.0_HD_U_I3.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.8"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.8.0_HD_U_I3"
+}
+```
+
 #### Minecraft 1.7.10
 ```
 {
