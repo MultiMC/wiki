@@ -12,10 +12,11 @@ For further navigation please check the sidebar to the right
 * Manage multiple instances of Minecraft at once
 * Start Minecraft with a custom resolution
 * Change Java's runtime options (including memory options)
-* Shows Minecraft's console output in a color-coded window
+* Shows Minecraft's console output in a colour-coded window
 * Kill Minecraft easily if it crashes/freezes
 * Custom icons and groups for instances
 * Forge and LiteLoader integration (automatic installation, version downloads, mod management)
+* Import of Curse modpacks
 * LWJGL version changing built-in
 * Supports every version of Minecraft that the vanilla launcher does
 * Upload screenshots
