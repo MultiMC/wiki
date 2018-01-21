@@ -28,26 +28,26 @@
 
 1. Start by clicking on the face in the top right corner and then _Manage Accounts_
 2. Click _Add_ and then enter your Mojang login credentials before clicking Ok
-3. You can add multiple accounts. If you do you might want to select one as default. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
+3. You can add multiple accounts. You can set a default account by clicking Set default button. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
 
 ### Creating an instance
 
 1. Click on the top left button
-2. Chose a name for the instance, which version of Minecraft it should be and an icon by clicking on the default icon image.
- * You can also add custom icons from the icon dialogue
-3. Click Ok
-4. MultiMC will now download all necessary files. This may take several minutes.
+2. Choose a name for the instance, set a group for it (You can make a group by typing it in the box), you can select an icon for it (You can also add custom icons from the icon dialogue).
+3. You now need to choose if you want a vanilla Minecraft instance or import a mod-pack.
+4. Click Ok
+5. MultiMC will now download all necessary files. This may take several minutes. (Depending on your internet and Mojang servers)
 
 ## Adding Forge/LiteLoader
 
-This might not be available in all versions of Minecraft
+(This might not be available in all versions of Minecraft)
 
-1. Select an instance, _Edit Mods_, _Version_ tab, _Install ..._
-2. Wait for the version list to load and then select the version to install
+1. Select an instance, Click _Edit Instance_, _Version_ tab, _Install Forge/Liteloader_
+2. Wait for the version list to load and then select the version to install (The starred version is recommended)
 
 ## Adding mods
 
-1. Select an instance, _Edit Mods_, _Loader Mods_ tab or _Core Mods_ tab (pre-1.6 only)
+1. Select an instance, _Edit Instance_, _Loader Mods_ tab or _Core Mods_ tab (pre-1.6 only)
 2. _Add_ and select the mod(s) to add from your computer
 
 # What next?
