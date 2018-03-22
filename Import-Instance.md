@@ -3,7 +3,7 @@
 Importing Instances allows users to import a zipped modpack.
 
 ### How to Import
-When creating a new instance, select the second option to _Import Modpack (local file or link)_. The text bow will allow users to add a URL where the modpack is stored. The square button to the right side of the text box will allow users to find the modpack on the local computer. 
+When creating a new instance, select the second option to _Import Modpack (local file or link)_. The text bow accepts a link where the modpack can be downloaded, or a local system path where the modpack is stored. You can use the button to the right side of the text box to find the modpack on the local system. 
 
 Alternatively, you can drag&drop the modpack on top of the main window.
 
