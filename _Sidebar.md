@@ -12,7 +12,7 @@
 
 * [[MultiMC settings]]
 * [[Minecraft settings]]
-* [[MultiMc Log settings]]
+* [[MultiMC Log settings]]
 * [[Minecraft Logs]]
 * [[Log Upload]]
 * [[Java settings]]
