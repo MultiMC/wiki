@@ -13,13 +13,13 @@
 * [[MultiMC settings]]
 * [[Minecraft settings]]
 * [[MultiMC Log settings]]
-
 * [[Java settings]]
 * [[Proxy settings]]
 * [[Tools]]
 * [[Switching update channels]]
 
 **Logs**
+
 * [[Minecraft Logs]]
 * [[Log Upload]]
 
