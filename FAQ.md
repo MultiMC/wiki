@@ -15,6 +15,8 @@ If you are trying to load a heavy instance with lots of mods, you may need to al
 
 More details here: https://github.com/MultiMC/MultiMC5/wiki/Increasing-Java%27s-memory-allocation
 
+If your issue is still not resolved you can ask for help in [MultiMC](https://discord.gg/rzK54qN) discord server
+
 ## Graphics issues
 
 ### Hybrid laptop graphics (Optimus and similar)
