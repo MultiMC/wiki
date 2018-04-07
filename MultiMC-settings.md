@@ -78,4 +78,9 @@ You can change how the texts in the console look, there is even some text there 
 ## History Limiter
 ![](https://i.imgur.com/0bIvWh1.png)
 
-This is used to set an log history limiter i.e. it deletes log lines that is beyond the limit. (This is used to contain the size og the log files)
+This is used to set a log history limiter i.e. it deletes log lines that is beyond the limit. (This is used to contain the size of the log files)
+
+# Analytics
+![](https://i.imgur.com/1kBOQ94.png)
+
+You can uncheck this option to opt out.
