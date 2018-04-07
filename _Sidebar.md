@@ -25,6 +25,7 @@
 
 **Instance Help**
 
+* [[Adding an Instance]]
 * [[Instance Version]]
 * [[Instance settings]]
 * [[Loader mods]]
