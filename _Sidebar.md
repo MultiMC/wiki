@@ -18,10 +18,13 @@
 * [[Tools]]
 * [[Switching update channels]]
 
-**Logs**
+**Logs and troubleshooting**
 
 * [[Minecraft Logs]]
 * [[Log Upload]]
+* [[Uploading a log]]
+* [[Using DxDiag]]
+* [[Unsupported Intel GPUs]]
 
 **Instance Help**
 
@@ -36,10 +39,9 @@
 * [[Jar Modding]]
 * [[Notes]]
 
-**Troubleshooting**
-* [[Uploading a log]]
-* [[Using DxDiag]]
-* [[Unsupported Intel GPUs]]
+**Development**
+
+* [[Translating MultiMC]]
 
 **Technical & In-depth**
 
