@@ -21,8 +21,6 @@
 **Logs and troubleshooting**
 
 * [[Minecraft Logs]]
-* [[Log Upload]]
-* [[Uploading a log]]
 * [[Using DxDiag]]
 * [[Unsupported Intel GPUs]]
 
