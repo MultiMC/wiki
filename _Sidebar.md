@@ -39,6 +39,7 @@
 **Troubleshooting**
 * [[Uploading a log]]
 * [[Using DxDiag]]
+* [[Unsupported Intel GPUs]]
 
 **Technical & In-depth**
 
