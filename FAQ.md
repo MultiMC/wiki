@@ -1,6 +1,12 @@
 ## Minecraft not launching or crashing on launch
 There are many issues possible with this, here are some issues and solutions.
 
+### Not the right Java version
+This is a very frequently addressed problem. Minecraft runs best on Java 8. anything higher than that may run but modded Minecraft WILL not work. If you are unsure of your java version you can check it by opening a command prompt(cmd.exe) and type "java -version".(without quotes) This will print out the java version in your computer.
+Also you need to choose the Java version in MultiMC. Click settings, click java and click autodetect and select the right version (Java 8).
+
+![Java autodetect](https://i.imgur.com/grBw8on.png)
+
 ### Mods are a different version
 Makes sure that all the mods for the instance you are launching are for the version of Minecraft you're launching -- eg. 1.6.4 mods for Minecraft 1.6.4, 1.7.10 mods for Minecraft 1.7.10 and so on.
 
