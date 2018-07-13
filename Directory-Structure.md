@@ -85,10 +85,7 @@ Not all files/directories might be available, depending on your setup
 │       └── libqxcb.so
 ├── qt.conf
 ├── translations
-│   └── mmc_de.qm
-└── versions
-    └── \<Minecraft version\>
-        └── \<Minecraft version\>.jar
+    └── mmc_de.qm
 ```
 
 # Explanation
@@ -126,4 +123,3 @@ Not all files/directories might be available, depending on your setup
 | plugins/ | Needed by Qt |
 | qt.conf | Needed by Qt |
 | translations/mmc_\<lang\>.qm | Translations of MultiMC, [[Translating MultiMC]] for more info |
-| versions/\<Version\>/\<Version\> | All Minecraft Jars |
