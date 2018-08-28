@@ -21,7 +21,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 
 ### Examples
 
-#### Minecraft 1.13 with OptiFine 1.13_HD_U_E3_alpha8
+#### Minecraft 1.13 with OptiFine 1.13_HD_U_E3_beta2
 ```
 {
     "formatVersion": 1,
@@ -30,9 +30,9 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "name": "optifine:preview_OptiFine:1.13_HD_U_E3_alpha8",
+            "name": "optifine:preview_OptiFine:1.13_HD_U_E3_beta2",
             "MMC-hint": "local",
-            "MMC-filename": "preview_OptiFine_1.13_HD_U_E3_alpha8.jar"
+            "MMC-filename": "preview_OptiFine_1.13_HD_U_E3_beta2.jar"
         }
     ],
     "+tweakers": [ "optifine.OptiFineTweaker" ],
@@ -45,7 +45,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
         }
     ],
     "name": "OptiFine",
-    "version": "1.13_HD_U_E3_alpha8"
+    "version": "1.13_HD_U_E3_beta2"
 }
 ```
 
