@@ -10,7 +10,7 @@ Just use OptiFine like any other Forge mod.
 * Set uid to `optifine.OptiFine` and name to `OptiFine`.
 * Select the newly created component and click `Edit` - this should open the file in a text editor.
 * Edit the JSON to look like one of the examples, then save the file.
-* Download OptiFine and save the jar file in `<Instance>/libraries/`. Create it if it doesn't exist.
+* Download OptiFine and save the jar file in `<Instance>/libraries/`. Create the `libraries` folder if it doesn't exist.
 
   If you look at the whole path, it should be something like this:
   ```
