@@ -14,10 +14,14 @@ Obviously only on Windows 10 :)
 
 If you want the full background about this issue, see:
 <details>
-https://github.com/LWJGL/lwjgl/issues/119
-https://github.com/MultiMC/MultiMC5/issues/1276 (and many other)
+
+* https://github.com/LWJGL/lwjgl/issues/119
+* https://github.com/MultiMC/MultiMC5/issues/1276
+* (and many other)
 
 I tried contacting Intel about it, they said they will not fix their drivers because the hardware is unsupported on Windows 10:
+
 http://www.intel.com/content/www/us/en/support/graphics-drivers/000005526.html
-And Microsoft got an another person to boost their Windows 10 numbers, even though the hardware is not supported properly there.
+
+... and Microsoft got an another person to boost their Windows 10 numbers, even though the hardware is not supported properly there.
 </details>
