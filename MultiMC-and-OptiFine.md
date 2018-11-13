@@ -26,7 +26,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 
 ### Examples
 
-#### Minecraft 1.13.1 with OptiFine 1.13.1_HD_U_E3_beta8
+#### Minecraft 1.13.2 with OptiFine 1.13_HD_U_E4
 ```
 {
     "formatVersion": 1,
@@ -35,9 +35,37 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "name": "optifine:preview_OptiFine:1.13.1_HD_U_E3_beta8",
+            "name": "optifine:OptiFine:1.13.2_HD_U_E4",
             "MMC-hint": "local",
-            "MMC-filename": "preview_OptiFine_1.13.1_HD_U_E3_beta8.jar"
+            "MMC-filename": "OptiFine_1.13.2_HD_U_E4.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "fileId": "optifine.OptiFine",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.13.2"
+        }
+    ],
+    "name": "OptiFine",
+    "version": "1.13.2_HD_U_E4"
+}
+```
+
+#### Minecraft 1.13.1 with OptiFine 1.13.1_HD_U_E4
+```
+{
+    "formatVersion": 1,
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "name": "optifine:OptiFine:1.13.1_HD_U_E4",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.13.1_HD_U_E4.jar"
         }
     ],
     "+tweakers": [ "optifine.OptiFineTweaker" ],
@@ -50,11 +78,11 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
         }
     ],
     "name": "OptiFine",
-    "version": "1.13.1_HD_U_E3_beta8"
+    "version": "1.13.1_HD_U_E4"
 }
 ```
 
-#### Minecraft 1.13 with OptiFine 1.13_HD_U_E3_beta4
+#### Minecraft 1.13 with OptiFine 1.13_HD_U_E4
 ```
 {
     "formatVersion": 1,
@@ -63,9 +91,9 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "name": "optifine:preview_OptiFine:1.13_HD_U_E3_beta4",
+            "name": "optifine:OptiFine:1.13_HD_U_E4",
             "MMC-hint": "local",
-            "MMC-filename": "preview_OptiFine_1.13_HD_U_E3_beta4.jar"
+            "MMC-filename": "OptiFine_1.13_HD_U_E4.jar"
         }
     ],
     "+tweakers": [ "optifine.OptiFineTweaker" ],
@@ -78,7 +106,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
         }
     ],
     "name": "OptiFine",
-    "version": "1.13_HD_U_E3_beta4"
+    "version": "1.13_HD_U_E4"
 }
 ```
 
@@ -91,9 +119,9 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
             "name": "net.minecraft:launchwrapper:1.12"
         },
         {
-            "name": "optifine:OptiFine:1.12.2_HD_U_C7",
+            "name": "optifine:OptiFine:1.12.2_HD_U_E2",
             "MMC-hint": "local",
-            "MMC-filename": "OptiFine_1.12.2_HD_U_C7.jar"
+            "MMC-filename": "OptiFine_1.12.2_HD_U_E2.jar"
         }
     ],
     "+tweakers": [ "optifine.OptiFineTweaker" ],
@@ -106,7 +134,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
         }
     ],
     "name": "OptiFine",
-    "version": "1.12.2_HD_U_C7"
+    "version": "1.12.2_HD_U_E2"
 }
 ```
 
