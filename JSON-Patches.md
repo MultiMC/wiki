@@ -1,6 +1,8 @@
 # Patches 
 Patches are stored in `<instance>/patches/<name>.json`, where `<name>` should be a Java package-style descriptor, for example `net.minecraftforge` or `com.mumfrey.liteloader`.
 
+**DISCLAIMER**: This is by no means exhaustive, and MultiMC supports more fields and more features related to JSON version patches. This page needs updating.
+
 ## Format
 
 The format of patches are similar to that of the vanilla version.json, but with some additions.
