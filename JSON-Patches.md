@@ -1,13 +1,25 @@
 # Patches 
-Patches are stored in `<instance>/patches/<name>.json`, where `<name>` should be a Java package-style descriptor, for example `net.minecraftforge` or `com.mumfrey.liteloader`.
+MultiMC uses patch files to assemble the final game version. Normally, there is a Minecraft version, a LWJGL version (which Minecraft depends on) and possibly LiteLoader and Forge. Others might also exist ([[Optifine|MultiMC and OptiFine]], ...).
 
-**DISCLAIMER**: This is by no means exhaustive, and MultiMC supports more fields and more features related to JSON version patches. This page needs updating.
+Patches are stored in `<instance>/patches/<name>.json`, where `<name>` should be a Java package-style descriptor, for example `net.minecraftforge` or `com.mumfrey.liteloader`. Patches need to be referenced from the `mmc-pack.json` file. The easiest way to add a patch is to use the MultiMC UI (add empty patch from the `Versions` page). Exampel of that is on the [[MultiMC and OptiFine]] page.
+
+-----
+
+**DISCLAIMER**: All of this is internal details and may be subject to unexpected changes. MultiMC will be backwards compatible with the files it made. However, anything abusing the knowledge of these internals and expecting them to always remain the same **WILL LIKELY BREAK** in the future. If you want to build on top of this, contact us on Discord or IRC.
+
+-----
 
 ## Format
 
-The format of patches are similar to that of the vanilla version.json, but with some additions.
+The format of patches are similar to that of the vanilla version files, but with significant changes and/or additions. The formats are not directly compatible and translating between them may not be possible due to the different feature sets of both launchers.
 
-Lets start with the LiteLoader patch as an example:
+-----
+
+**DISCLAIMER**: This is by no means exhaustive, and MultiMC supports more fields and more features related to JSON version patches. This page needs updating.
+
+-----
+
+Let's start with the LiteLoader patch as an example:
 
 ```json
 {
