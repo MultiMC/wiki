@@ -14,3 +14,8 @@ The workflow:
 * When done, post the changed files on [discord](https://discord.gg/0k2zsXGNHs0fE4Wm), or on [github](https://github.com/MultiMC/MultiMC5-translate) as a pull request.
 
 If you have any questions feel free to hop on [Discord and talk to us](https://discord.gg/0k2zsXGNHs0fE4Wm).
+
+# General considerations when translating
+
+* When there's a technical term that is shared with the operating system (like 'file', 'folder', 'network', 'proxy' and so on), these should use the same terms as the operating system translation.
+* When the translations are updated for new source code, the update process guesses when it runs into translations that no longer fit. This creates `fuzzy` translations. It is better to get rid of bad and broken fuzzy translations first.
