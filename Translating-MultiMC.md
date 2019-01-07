@@ -19,3 +19,5 @@ If you have any questions feel free to hop on [Discord and talk to us](https://d
 
 * When there's a technical term that is shared with the operating system (like 'file', 'folder', 'network', 'proxy' and so on), these should use the same terms as the operating system translation.
 * When the translations are updated for new source code, the update process guesses when it runs into translations that no longer fit. This creates `fuzzy` translations. It is better to get rid of bad and broken fuzzy translations first.
+* A missing translation is better than a wrong/misleading translation.
+* Focus on the most exposed strings first. You can use the MultiMC log to determine which translations are used where - it complains about missing and fuzzy translations in `.po` files when they are used.
