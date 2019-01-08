@@ -1,13 +1,12 @@
 # How to translate
 
-All the translations are done with the `stable` branch of MultiMC.
-
 For translators, MultiMC supports hotloading of translations from `GetText Portable Object` (`.po`) files.
 
 The workflow:
 * Get a `.po` file from here the [translations repository](https://github.com/MultiMC/MultiMC5-translate).
   * Alternatively, get the `template.pot` and start a new translation based on it.
   * Alternatively, you can also clone the whole repository using `git`.
+  * All the translations are done with the `stable` branch of MultiMC.
 * Put it in the `translations` folder.
 * Edit it with [POEdit](https://poedit.net/) or a similar editor.
 * See the changes in real time. MultiMC reloads the translations whenever something changes in the folder.
