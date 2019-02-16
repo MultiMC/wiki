@@ -26,7 +26,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 
 ### Examples
 
-#### Minecraft 1.13.2 with OptiFine 1.13_HD_U_E4
+#### Minecraft 1.13.2 with OptiFine 1.13.2_HD_U_E4
 ```
 {
     "formatVersion": 1,
