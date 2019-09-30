@@ -1,12 +1,12 @@
-## Minecraft versions which have Forge
-
-Just use OptiFine like any other Forge mod.
-
-## Minecraft versions which have Fabric
+## Minecraft versions which have Fabric (after and including 1.14)
 
 Install Fabric, then add Optifine along with https://www.curseforge.com/minecraft/mc-mods/optifabric as mods.
 
-## Minecraft versions that don't have Forge or Fabric
+## Minecraft versions which have Forge (before 1.13)
+
+Just use OptiFine like any other Forge mod.
+
+## Minecraft versions that don't have Forge or Fabric (1.13 or specific oddities)
 
 ### The jar mod way
 
