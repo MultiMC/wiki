@@ -37,9 +37,9 @@ You can use the version page to check the file for errors - obvious mistakes wil
 
 If the JSON file doesn't open in a text editor, make sure your operating system is set up to open `.json` files in one first.
 
-### Examples
+#### Examples
 
-#### Minecraft 1.13.2 with OptiFine 1.13.2_HD_U_E4
+##### Minecraft 1.13.2 with OptiFine 1.13.2_HD_U_E4
 ```
 {
     "formatVersion": 1,
@@ -67,7 +67,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.13.1 with OptiFine 1.13.1_HD_U_E4
+##### Minecraft 1.13.1 with OptiFine 1.13.1_HD_U_E4
 ```
 {
     "formatVersion": 1,
@@ -95,7 +95,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.13 with OptiFine 1.13_HD_U_E4
+##### Minecraft 1.13 with OptiFine 1.13_HD_U_E4
 ```
 {
     "formatVersion": 1,
@@ -123,7 +123,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.12.2
+##### Minecraft 1.12.2
 ```
 {
     "formatVersion": 1,
@@ -151,7 +151,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.12.1
+##### Minecraft 1.12.1
 ```
 {
     "formatVersion": 1,
@@ -179,7 +179,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.12
+##### Minecraft 1.12
 ```
 {
     "formatVersion": 1,
@@ -207,7 +207,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.11.2
+##### Minecraft 1.11.2
 ```
 {
     "formatVersion": 1,
@@ -235,7 +235,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.11
+##### Minecraft 1.11
 ```
 {
     "formatVersion": 1,
@@ -263,7 +263,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.10.2
+##### Minecraft 1.10.2
 ```
 {
     "formatVersion": 1,
@@ -291,7 +291,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.10
+##### Minecraft 1.10
 ```
 {
     "formatVersion": 1,
@@ -319,7 +319,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.9.4
+##### Minecraft 1.9.4
 ```
 {
     "formatVersion": 1,
@@ -347,7 +347,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.9.2
+##### Minecraft 1.9.2
 ```
 {
     "formatVersion": 1,
@@ -375,7 +375,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.9
+##### Minecraft 1.9
 ```
 {
     "formatVersion": 1,
@@ -403,7 +403,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.8.9
+##### Minecraft 1.8.9
 ```
 {
     "formatVersion": 1,
@@ -431,10 +431,10 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
 }
 ```
 
-#### Minecraft 1.8.8
+##### Minecraft 1.8.8
 This one is currently broken. The 1.8.8 download is 1.8.9 and it fails to load. 
 
-#### Minecraft 1.8
+##### Minecraft 1.8
 ```
 {
     "formatVersion": 1,
@@ -462,7 +462,7 @@ This one is currently broken. The 1.8.8 download is 1.8.9 and it fails to load.
 }
 ```
 
-#### Minecraft 1.7.10
+##### Minecraft 1.7.10
 ```
 {
     "formatVersion": 1,
@@ -490,7 +490,7 @@ This one is currently broken. The 1.8.8 download is 1.8.9 and it fails to load.
 }
 ```
 
-#### Minecraft 1.7.2
+##### Minecraft 1.7.2
 ```
 {
     "formatVersion": 1,
@@ -518,7 +518,7 @@ This one is currently broken. The 1.8.8 download is 1.8.9 and it fails to load.
 }
 ```
 
-### Troubleshooting and FAQ
+#### Troubleshooting and FAQ
 
 * `java.lang.ClassDefNotFound: ...`: make sure that the path to OptiFine that's outputted on the console is actually pointing to the file you downloaded.
 * This broke my game!: You can always remove the patch and it's as if it was never there...
