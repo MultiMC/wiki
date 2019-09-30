@@ -6,16 +6,16 @@ Install Fabric, then add Optifine along with https://www.curseforge.com/minecraf
 
 Just use OptiFine like any other Forge mod.
 
-## Minecraft versions that don't have Forge or Fabric (1.13 or specific oddities)
+## Minecraft versions that don't have Forge or Fabric
 
-### The jar mod way
+### The jar mod way (any version)
 
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Install the same version in the Mojang launcher
 * Run the desired version of Optifine as an installer and make it extract the jar
 * Add the extracted jar on the Version page of the instance (Add to Minecraft.jar)
 
-### The launchwrapper tweaker way
+### The launchwrapper tweaker way (listed versions)
 
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Click `Edit Instance` - it should open the `Version` page of the instance.
