@@ -2,7 +2,11 @@
 
 Just use OptiFine like any other Forge mod.
 
-## Minecraft versions that don't have Forge
+## Minecraft versions which have Fabric
+
+Install Fabric, then add Optifine along with https://www.curseforge.com/minecraft/mc-mods/optifabric as mods.
+
+## Minecraft versions that don't have Forge or Fabric
 
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Click `Edit Instance` - it should open the `Version` page of the instance.
