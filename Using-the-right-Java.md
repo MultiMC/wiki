@@ -7,21 +7,22 @@ The situation here can vary, depending on distribution.
 
 What you most likely want is openjdk 8. Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
-## Unbuntu/Debian derivatives
-```
-# apt-get install openjdk-8-jre
-```
+* Install the right package
 
-## Arch
-```
-# pacman -Sy jre8-openjdk
-```
-
-## RPM-based distributions
-```
-# yum install java-1.8.0-openjdk
-```
-
+  **Unbuntu/Debian derivatives**
+  ```
+  # apt-get install openjdk-8-jre
+  ```
+  **Arch**
+  ```
+  # pacman -Sy jre8-openjdk
+  ```
+  **RPM-based distributions**
+  ```
+  # yum install java-1.8.0-openjdk
+  ```
+* In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
+* See [[Increasing Java's memory allocation]] for more details about Java memory settings.
 
 # Windows
 
