@@ -14,6 +14,8 @@ Java memory settings. For explanation, see: [[Increasing Java's memory allocatio
 
 This is where the settings for the Java runtime live, like the location of the runtime and any Java arguments to use.
 
+For information about how to get a correct Java version, see: [[Using-the-right-Java]].
+
 **Auto-detect** will check your computer for all java versions and show you a list of them, the best one on top.
 
 **Test** can be used to test the selected Java runtime along with your memory settings and JVM arguments without starting the game.
