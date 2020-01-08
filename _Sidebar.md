@@ -14,6 +14,7 @@
 * [[Minecraft settings]]
 * [[MultiMC Log settings]]
 * [[Java settings]]
+* [[Using the right Java]]
 * [[Proxy settings]]
 * [[Tools]]
 * [[Switching update channels]]
