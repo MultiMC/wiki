@@ -1,4 +1,7 @@
-Here you can set the global Java settings
+Here you can set the global Java settings.
+
+![](https://i.imgur.com/4wWVFe6.png)
+
 
 ## Memory
 
