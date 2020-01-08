@@ -3,10 +3,6 @@ If you don't know how to get it, read on.
 
 # Linux
 
-The situation here can vary, depending on distribution.
-
-What you most likely want is openjdk 8. Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
-
 * Install the right package
 
   **Unbuntu/Debian derivatives**
@@ -23,6 +19,8 @@ What you most likely want is openjdk 8. Common issue is that people install only
   ```
 * In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
 * See [[Increasing Java's memory allocation]] for more details about Java memory settings.
+
+Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
 # Windows
 
