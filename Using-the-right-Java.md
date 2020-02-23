@@ -23,12 +23,20 @@ Common issue is that people install only the headless version, and then it doesn
 
 ## Windows
 
+Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
+
+### 64-bit
 * Go to https://www.java.com/en/download/manual.jsp
-* Download the `Windows Offline (64-bit)` installer, if your CPU is 64bit.
-* Download the `Windows Offline` installer, if your CPU is 32bit - you will be limited to roughly 1500MB Java heap size, which is not big enough for mods in most cases.
+* Download the `Windows Offline (64-bit)` installer, as shown below.
+![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
 * Install it.
 
-There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
+### 32-bit
+* Go to https://www.java.com/en/download/manual.jsp
+* Download the `Windows Offline` installer.
+* Install it.
+
+You will be limited to roughly 1500MB Java heap size, which is not big enough for mods in most cases.
 
 ## macOS
 * Go to https://www.java.com/en/download/manual.jsp
