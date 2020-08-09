@@ -15,7 +15,7 @@ For further navigation please check the sidebar to the right
 * Shows Minecraft's console output in a colour-coded window
 * Kill Minecraft easily if it crashes/freezes
 * Custom icons and groups for instances
-* Forge and LiteLoader integration (automatic installation, version downloads, mod management)
+* Forge, Fabric and LiteLoader integration (automatic installation, version downloads, mod management)
 * Import of Curse modpacks
 * LWJGL version changing built-in
 * Supports every version of Minecraft that the vanilla launcher does
