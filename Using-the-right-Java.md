@@ -12,7 +12,7 @@ If you don't know how to get it, read on.
   ```
   **Arch**
   ```
-  # pacman -Sy jre8-openjdk
+  # pacman -Syu jre8-openjdk
   ```
   **RPM-based distributions**
   ```
