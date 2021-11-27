@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: sync
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2.4.0
+        with:
+          fetch-depth: 0
+
+      - name: "Set up git access"
+        env:
+          WIKI_SSH: ${{ secrets.WIKI_SSH }}
+          WIKI_SSH_PUB: ${{ secrets.WIKI_SSH_PUB }}
+        run: |
+          umask u=rwx,g=,o=
+          mkdir -p ~/.ssh/
+          echo "${WIKI_SSH}" | base64 -d > ~/.ssh/multimc_wiki_sync
+          echo "${WIKI_SSH_PUB}" | base64 -d > ~/.ssh/multimc_wiki_sync.pub
+          git config core.sshCommand 'ssh -i ~/.ssh/multimc_wiki_sync'
+          git config user.name "Sync"
+          git config user.email "sync@dethware.org"
+
+      - name: "Add and fetch upstream"
+        run: |
+          git remote add upstream git@github.com:MultiMC/Launcher.wiki.git
+          echo "Fetching upstream"
+          git fetch upstream
+
+      - name: "Sync"
+        run: |
+          git push upstream HEAD:master --force
