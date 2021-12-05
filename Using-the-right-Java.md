@@ -1,7 +1,48 @@
-The right Java version to use is Java 8, with the same architecture as your CPU.
-If you don't know how to get it, read on.
+Generally you should use Java with the same architecture as your CPU. There are different version requirements for different Minecraft versions.
+If you don't know which one and how to get it, read on.
 
-# Getting and installing Java 
+# Setting up Java in MultiMC
+
+* In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
+* See [[Increasing Java's memory allocation]] for more details about Java memory settings.
+
+![](https://cdn.discordapp.com/attachments/531598137790562305/575378380573114378/unknown.png)
+
+# Minecraft 1.17 and newer
+
+For this version you need to use Java 16.
+
+## Linux
+
+Install the right package
+
+* Unbuntu/Debian derivatives: `openjdk-17-jre`
+* Arch `jre17-openjdk`
+* Fedora `java-latest-openjdk`
+* OpenSUSE: `java-17-openjdk` (currently only in Tumbleweed)
+
+## Windows
+
+Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
+
+* Azul: https://www.azul.com/downloads/?version=java-17-stsarchitecture=x86-64-bit&package=jre#download-openjdk
+* Eclipse Adoptium: https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot
+* Microsoft OpenJDK: https://docs.microsoft.com/en-gb/java/openjdk/download
+* Oracle: https://www.oracle.com/java/technologies/downloads/
+
+
+## macOS
+
+- Homebrew: `openjdk@17`
+- Macports: `openjdk17`
+
+Alternatively the Windows links above usually also provide macOS and Linux versions.
+
+
+# Minecraft 1.16 and older
+
+The right Java version to use is Java 8
+
 ## Linux
 
 * Install the right package
@@ -49,3 +90,13 @@ You will be limited to roughly 1500MB Java heap size, which is not big enough fo
 * See [[Increasing Java's memory allocation]] for more details about Java memory settings.
 
 ![](https://cdn.discordapp.com/attachments/531598137790562305/575378380573114378/unknown.png)
+
+## Set Instance Java Installation
+
+Go to **Edit Instance** -> **Settings** -> **Java** -> **Java Installation**.
+
+![https://i.imgur.com/B9njIC1.png](https://i.imgur.com/B9njIC1.png)
+
+## My Java Installation doesn't appear on the list, what do I do?
+
+Try refreshing the list. If that fails, you'll need to locate the Java executable yourself - within the root Java directory this is `./bin/java` on Unix systems, and `.\bin\javaw.exe` on Windows.
