@@ -54,4 +54,4 @@
 
 # What next?
 
-Check out the sidebar to the right, or go to [[Tips and Tricks]]. If you need any further advice or just want to chat with other players you can join us on [Discord](https://discord.gg/rzK54qN)
+Check out the sidebar to the right, or go to [[Tips and Tricks]]. If you need any further advice or just want to chat with other players you can join us on [Discord](https://discord.gg/multimc)

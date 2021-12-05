@@ -20,7 +20,7 @@ If you are trying to load a heavy instance with lots of mods, you may need to al
 
 More details here: [[Increasing Java's memory allocation]]
 
-If your issue is still not resolved you can ask for help in our [discord server](https://discord.gg/rzK54qN).
+If your issue is still not resolved you can ask for help in our [discord server](https://discord.gg/multimc).
 
 ## Graphics issues
 
@@ -48,7 +48,7 @@ You need to update your graphics drivers. If they are already the latest and you
 Minecraft login can be blocked by several issues:
 
 ### Network blocking or Mojang servers being down
-You can first check the [Mojang Status Twitter](https://twitter.com/MojangStatus), if the auth and session servers are having issues, you just have to wait. When there's no known issues, your network access might be broken or filtered. You can join us on [Discord](https://discord.gg/rzK54qN) to help you troubleshoot.
+You can first check the [Mojang Status Twitter](https://twitter.com/MojangStatus), if the auth and session servers are having issues, you just have to wait. When there's no known issues, your network access might be broken or filtered. You can join us on [Discord](https://discord.gg/multimc) to help you troubleshoot.
 
 ### Secure access problems
 If the access to the Mojang auth servers is compromised or impossible, you will get a scary error message. Please report these as bugs, along with uploading the MultiMC log file (MultiMC-0.log).
@@ -84,4 +84,4 @@ Use the following steps to help reduce the number of third-party background proc
 9. Same as with the startup items, disable any third-party background services you don't want running in the background
 **WARNING: Do not disable services by the publishers AMD, Intel, NVidia, Realtek or Microsoft as these are required for your computer to work properly.** 
 
-10. Finally, restart your computer to apply the changes. If anything goes wrong, undo your changes by following these steps backwards or join us on [Discord](https://discord.gg/rzK54qN) for further support.
+10. Finally, restart your computer to apply the changes. If anything goes wrong, undo your changes by following these steps backwards or join us on [Discord](https://discord.gg/multimc) for further support.

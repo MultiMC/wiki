@@ -10,7 +10,7 @@ Always make sure your issue isn't already answered in the [[FAQ]]. Make sure it'
 
 ### Minecraft crashes
 
-Please come to our [Discord](https://discord.gg/rzK54qN) first and ask for help, most likely your problem isn't caused by MultiMC.
+Please come to our [Discord](https://discord.gg/multimc) first and ask for help, most likely your problem isn't caused by MultiMC.
 
 ### MultiMC bugs
 If you think your problem is caused by MultiMC, you can open an issue here on Github. Please include your MultiMC log file to [Gist](https://gist.github.com/), [Paste.ee](https://paste.ee/) or similar.
