@@ -6,7 +6,6 @@ To set up the tools, you need to first download it to a location you can access 
 Then you need to select the excecutable/binary of the tool and click ok
 you can check if you have set it up properly by clicking the check button
 
-
 To run a tool, either right click the instance, click _Play_ and then select the tool, or hold the _Play_ button in the instance toolbar clicked for a few seconds until the same menu pops up. Some tools, like profilers, will launch the game, while others won't.
 
 ## JProfiler
@@ -26,8 +25,10 @@ To get you started, go to the _Sampler_ tab and select _CPU_. Then click _Launch
 
 ## MCEdit
 
-> MCEdit is an open source world editor for the popular game Minecraft. MCEdit was first created to allow players to preserve anything built with several old versions of Minecraft and take them forward into newer versions of the game. It also aims to be forward-compatible with future (or even modified) versions of Minecraft. It has since been improved with brush tools for laying down blocks in different shapes, integration with the Minecraft Server to generate terrain using Minecraft’s own seed algorithms, support for multiplayer worlds, and editors for certain blocks including chests and mob spawners.
+> MCEdit is a versatile map utility, designed for editing Minecraft maps. With it, you can open a level and fly around in glorious 3D with multiple levels of detail! Select millions of blocks and clone them anywhere else in the level. Fill a boxy selection with the block of your choice, or replace one kind of block with another. Export blocks to a schematic file for later use. Import a schematic or an entire level into any world using import. Move players, spawn points, or even add and delete players. Create and and remove chunks from the world. Fill blackened areas with light. And much more with modular filters!
 
-Get MCEdit [here](https://www.mcedit-unified.net/)
+NOTE: MCEdit is not able to open worlds for versions newer than Minecraft 1.13
 
-After clicking _MCEdit_ in the _Play_ menu you will be prompted for which world to open. After doing that you will be launched straight into that world in MCEdit. You can use both MCEdit 1 & 2.
+Get MCEdit Unified [here](https://www.mcedit-unified.net/)
+
+After clicking _MCEdit_ in the _Play_ menu you will be prompted for which world to open, then you will be launched straight into that world in MCEdit.
