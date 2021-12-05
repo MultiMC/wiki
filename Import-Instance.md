@@ -1,24 +1,14 @@
-![](http://i.imgur.com/5I3Xs0U.png)
-***
-Importing Instances allows users to import a zipped modpack.
+![](images/import-instance.png)
 
-### How to Import
-When creating a new instance, select the second option to _Import Modpack (local file or link)_. The text bow accepts a link where the modpack can be downloaded, or a local system path where the modpack is stored. You can use the button to the right side of the text box to find the modpack on the local system. 
+
+Importing instances allows you to import modpacks created by other users, or even your own backups created using [[Export Instance]].
+
+## Importing
+When creating a new instance, select the second option to _Import from zip_. The text bow accepts a link where the modpack can be downloaded, or a local system path where the modpack is stored. You can use the button to the right side of the text box to find the modpack on the local system. 
 
 Alternatively, you can drag&drop the modpack on top of the main window.
 
 Currently, you can import:
+
 * Modpacks (instances) that were originally exported by MultiMC
-* Curse modpacks (download the modpack zip from a curse website, then import)
-
-### What is required to Import
-The main component of a modpack is the _/minecraft_ folder. This is where all of the basic files are located including options.txt, saves and resourcepacks. Optionally, users can add custom instance versions in the _/patches_ folder and jarmods in the _/jarmods_ folder. These are the only folders that are allowed outside of the _/minecraft_ folder.
-
-Any mods that a modpack created could want can be placed inside the _/minecraft/mods_ folder and their respective configs can be placed in the _/minecraft/config_ folder.
-
-## Future of Imports
-Importing will be expanded upon in the future to allow for importing of modpacks from other Minecraft launchers:
-* Vanilla Launcher
-* FTB Launcher
-* ATLauncher
-* Technic Launcher
+* CurseForge modpacks (downloaded from their website, or exported through their launcher)
