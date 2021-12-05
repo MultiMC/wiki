@@ -6,7 +6,7 @@
 ### About
 
 Mojang have said they DO NOT want people to put things into the jar, and there exist several alternative ways of that jar mods could be installed in (used by some jar mods):
-* As a MinecraftForge mod (simply drop into the mods/ folder). Requires a version of forge for the minecraft version.
+* As a modloader mod (simply drop into the mods/ folder). Requires a version of Forge or Fabric for the Minecraft version.
 * As a launchwrapper tweaker, doesn't require forge and still is a relatively clean way of installing. Also see the bottom.
 
 If you are a user who wants to install a jar mod with MultiMC you have three options:
