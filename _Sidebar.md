@@ -3,9 +3,8 @@
 * [[Home]]
 * [[FAQ]]
 * [[Getting Started]]
-* [[Feedback]]
+* [Feedback & Bugs](Feedback)
 * [[Tips and Tricks]]
-* [[Report a Bug]]
 * [[MultiMC and OptiFine]]
 
 **MultiMC Help**
@@ -24,6 +23,7 @@
 * [[Minecraft Logs]]
 * [[Using DxDiag]]
 * [[Unsupported Intel GPUs]]
+* [[Crash Reports]]
 
 **Instance Help**
 

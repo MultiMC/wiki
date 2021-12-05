@@ -28,6 +28,6 @@ To get you started, go to the _Sampler_ tab and select _CPU_. Then click _Launch
 
 > MCEdit is an open source world editor for the popular game Minecraft. MCEdit was first created to allow players to preserve anything built with several old versions of Minecraft and take them forward into newer versions of the game. It also aims to be forward-compatible with future (or even modified) versions of Minecraft. It has since been improved with brush tools for laying down blocks in different shapes, integration with the Minecraft Server to generate terrain using Minecraft’s own seed algorithms, support for multiplayer worlds, and editors for certain blocks including chests and mob spawners.
 
-Get MCEdit [here](http://www.mcedit.net/)
+Get MCEdit [here](https://www.mcedit-unified.net/)
 
 After clicking _MCEdit_ in the _Play_ menu you will be prompted for which world to open. After doing that you will be launched straight into that world in MCEdit. You can use both MCEdit 1 & 2.

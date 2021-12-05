@@ -20,7 +20,7 @@ If you are trying to load a heavy instance with lots of mods, you may need to al
 
 More details here: [[Increasing Java's memory allocation]]
 
-If your issue is still not resolved you can ask for help in [MultiMC](https://discord.gg/rzK54qN) discord server.
+If your issue is still not resolved you can ask for help in our [discord server](https://discord.gg/rzK54qN).
 
 ## Graphics issues
 

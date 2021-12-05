@@ -15,7 +15,7 @@
 
 2. Then you will be prompted for which version of java to use.
  * You should use a 64bit Java if you are on a 64bit OS.
- * If your version of Java does not show up, please file an issue [here](https://github.com/MultiMC/MultiMC5/wiki/Report-a-Bug), on our [IRC Channel](http://webchat.esper.net/?nick=&channels=MultiMC) or on our [Discord Server](https://discordapp.com/invite/98JHQ).
+ * If your version of Java does not show up, please file an [issue](Feedback)
  * If you installed Java elsewhere then click the browse button and browse to the installation
 
 3. MultiMC sends anonymous statistics every time the application starts.This is done for the further development of MultiMC and also to know which platform to focus on more. (You can disable this option)
@@ -27,8 +27,8 @@
 ### Adding an account
 
 1. Start by clicking on the face in the top right corner and then _Manage Accounts_
-2. Click _Add_ and then enter your Mojang login credentials before clicking Ok
-3. You can add multiple accounts. You can set a default account by clicking Set default button. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
+2. Click _Add Microsoft_ or _Add Mojang_ and follow the prompts
+3. You can add multiple accounts. You can set a default account by clicking _Set default_. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
 
 ### Creating an instance
 
@@ -38,12 +38,14 @@
 4. Click Ok
 5. MultiMC will now download all necessary files. This may take several minutes. (Depending on your internet and Mojang servers)
 
-## Adding Forge/LiteLoader
+## Adding Forge, Fabric or LiteLoader
 
 (This might not be available in all versions of Minecraft)
 
-1. Select an instance, Click _Edit Instance_, _Version_ tab, _Install Forge/Liteloader_
-2. Wait for the version list to load and then select the version to install (The starred version is recommended)
+1. Select an instance, Click _Edit Instance_, _Version_ tab
+2. You can now install Forge, Fabric or LiteLoader by using the buttons in the right menu
+   Which modloaders are available will differ based on the Minecraft version
+3. Wait for the version list to load and then select the version to install (The starred version is recommended)
 
 ## Adding mods
 
@@ -52,4 +54,4 @@
 
 # What next?
 
-Check out the sidebar to the right, or go to [[Tips and Tricks]]
+Check out the sidebar to the right, or go to [[Tips and Tricks]]. If you need any further advice or just want to chat with other players you can join us on [Discord](https://discord.gg/rzK54qN)
