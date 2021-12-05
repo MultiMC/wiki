@@ -51,4 +51,3 @@
 
 * [Homepage](https://multimc.org)
 * [[Tutorials]]
-* [[Developers]]
