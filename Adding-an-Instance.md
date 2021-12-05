@@ -1,16 +1,21 @@
 # Adding an Instance
 
-![](https://i.imgur.com/eRooThu.png)
+![](images/new-instance.png)
 
-MultiMC allows you to add an instance.
-You can currently add an instance in 2 ways:
+MultiMC allows you to add so called instances, they represent independent Minecraft installations and are the main use case of MultiMC.
+There's various ways to create new instances via the various platform integrations.
 
 ## Vanilla instance
 
 Straightforward... Vanilla!
-You can select the version you want. (The Starred version is the recommended version)
-You can also select snapshots (If they are available)
+You can select the version you want. (The starred version is the recommended version)
+You can also select snapshots, betas and other miscellaneous official versions.
 
 ## Import modpack/zip instance
-used to import twitch modpacks (.zip files) and MultiMC zipped instances
-more information [here](https://github.com/MultiMC/MultiMC5/wiki/Import-Instance)
+
+Allows you to import MultiMC instances from online or local Zip files and also supports some of the modpack platforms like CurseForge.
+More information about on the dedicated wiki pages [[Import Instance]] and [[Export Instance]].
+
+## Modpack Platforms
+
+Integration with various third party platforms can change over time, generally you can search for modpacks and install them using various filters.

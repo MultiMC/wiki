@@ -6,18 +6,19 @@ The last section of the _Instance Actions_ menu allows for users to export their
 
 ![](http://i.imgur.com/n6p6FBv.png)
 
-Exported instances will be saved in the zip format.
+Exported instances will be saved in a Zip file. You can then share those for other MultiMC users, which can then [import them](Import-Instance) for their own use.
 
-## Which Files are Necessary
-By default, all the instance files are checked however not all of these are required in all minecraft launchers. The following will explain the basics of each file shown above:
+## Exporting
 
-* /patches: where mod-loaders are loaded from such and Forge and Liteloader. Most other launchers have their own way of doing this so would only be necessary for importing back into MultiMC.
-* /minecraft: where all of the essential minecraft data is stored and is required for minecraft to launch correctly. This includes loader mods and config options.
-* /jarmods: where mods that would normally go into the minecraft.jar are stored. Most other launchers would require you to add these manually. Should only be used for importing back into MultiMC.
-* /order.json: required to specify the order in which the instance version components launch in.
-* /instance.cfg: This is a MultiMC only feature that is made for the launcher and thus has no use in other launchers. Typically this is client side and does not need to be distributed to other players.
+To export an instance select the instance in the main window and then click _Export Instance_ either in the right toolbar or in the context menu.
 
-## Importing in MultiMC
+![](images/export-instance.png)
 
-You can import any zipped modpacks that are already made for MultiMC as _.zip_ files.
-Learn more about importing here: **[[Import Instance]]**.
+By default, all the instance files are checked however not all of these are required to create a valid modpack. The following will explain the basics of each common file and folder:
+
+* `/.minecraft`: The main game folder, this includes mods, configs, resource packs and more. This is the main folder you will need in any other launcher.
+* `/instance.cfg`: MultiMC specific information about the instance, like name, playtime and selected icon
+* `/mmc-pack.json`: MultiMC specific information about which libraries and versions this instance needs.
+* `/patches`: Older mod-loaders are stored here such as Forge and Liteloader. Most other launchers have their own way of doing this so would only be necessary for importing back into MultiMC.
+* `/libraries`: Older mod-loaders are stored here such as Forge and Liteloader. Most other launchers have their own way of doing this so would only be necessary for importing back into MultiMC.
+* `/jarmods`: Jar-Mods that would normally go into the minecraft.jar are stored here. Most other launchers would require you to add these manually. Should only be used for importing back into MultiMC.
