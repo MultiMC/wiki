@@ -46,6 +46,7 @@
 
 * [[JSON Patches]]
 * [[Directory Structure]]
+* [[Custom Icons]]
 
 **External**
 
