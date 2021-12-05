@@ -1,11 +1,10 @@
+# Frequently Asked Questions
+
 ## Minecraft not launching or crashing on launch
 There are many issues possible with this, here are some issues and solutions.
 
 ### Not the right Java version
-This is a very frequently addressed problem. Minecraft runs best on Java 8. anything higher than that may run but modded Minecraft WILL not work. If you are unsure of your java version you can check it by opening a command prompt(cmd.exe) and type "java -version".(without quotes) This will print out the java version in your computer.
-Also you need to choose the Java version in MultiMC. Click settings, click java and click autodetect and select the right version (Java 8).
-
-![Java autodetect](https://i.imgur.com/grBw8on.png)
+This is a very frequently addressed problem. Please read this dedicated wiki article [[Using the right Java]] to setup the correct Java version. 
 
 ### Mods are a different version
 Makes sure that all the mods for the instance you are launching are for the version of Minecraft you're launching -- eg. 1.6.4 mods for Minecraft 1.6.4, 1.7.10 mods for Minecraft 1.7.10 and so on.
@@ -19,9 +18,9 @@ If you are trying to load a heavy instance with lots of mods, you may need to al
 2. Under the Java tab, check the "Memory" checkbox
 3. Raise the "Maximum memory allocation" to 2048MB
 
-More details here: https://github.com/MultiMC/MultiMC5/wiki/Increasing-Java%27s-memory-allocation
+More details here: [[Increasing Java's memory allocation]]
 
-If your issue is still not resolved you can ask for help in [MultiMC](https://discord.gg/rzK54qN) discord server or make an [Issue](https://github.com/MultiMC/MultiMC5/issues/new)
+If your issue is still not resolved you can ask for help in [MultiMC](https://discord.gg/rzK54qN) discord server.
 
 ## Graphics issues
 
@@ -39,7 +38,7 @@ Rename the .exe and it might just work better.
 You can use the [Wrapper command option in the Java settings](https://github.com/MultiMC/MultiMC5/wiki/Java-settings#custom-commands) together with `optirun` or similar wrappers.
 
 ### OpenGL format not accelerated or graphical glitches in-game
-You need to update your graphics drivers. If they are already the latest, your graphics card is too old.
+You need to update your graphics drivers. If they are already the latest and you are using an Intel GPU read [[Unsupported Intel GPUs]]
 
 - AMD: http://support.amd.com/en-us/download
 - NVidia: http://www.nvidia.com/Download/index.aspx?lang=en-us
@@ -48,38 +47,16 @@ You need to update your graphics drivers. If they are already the latest, your g
 ## Can't log in
 Minecraft login can be blocked by several issues:
 
-### You changed your account name recently
-In MultiMC, remove your Mojang account and add it again.
-
 ### Network blocking or Mojang servers being down
-Generally, you can detect this by looking at the status icons on the lower right of the MultiMC window. Clicking them leads to [The Mojang help page.](https://help.mojang.com/). If the auth and session servers are having issues, you just have to wait. If you can access the page, but the status icons show as offline, or if both are offline, your network access might be broken or filtered. We can't help you with that.
+You can first check the [Mojang Status Twitter](https://twitter.com/MojangStatus), if the auth and session servers are having issues, you just have to wait. When there's no known issues, your network access might be broken or filtered. You can join us on [Discord](https://discord.gg/rzK54qN) to help you troubleshoot.
 
 ### Secure access problems
 If the access to the Mojang auth servers is compromised or impossible, you will get a scary error message. Please report these as bugs, along with uploading the MultiMC log file (MultiMC-0.log).
-
-## Folders
-
-### Copy contents of x folder
-There may come a time when you have many files all over, or have an SSD and want to save as much space as possible. Instead of giving you the ability to copy over/keep updated a second folder for you, we'll walk you through how to use features already in your OS to do so.
-
-#### Windows
-Just like Linux, you just have to type one command,
-
-```mklink /j "c:\users\Will\Desktop\multimc\mods" c:\users\Will\.minecraft\mods```
-
-The following command makes a linked folder or symlink from .minecraft\mods to multimc\mods
-
-#### Linux
-The linux command is a little easier,
-
-```ln -s /home/Will/.minecraft/mods /home/Will/multimc/mods```
 
 ## Poor performance and/or lag in game
 
 ### Solution 1: Get a better PC
 _Self-explanatory_
-
-If you want advice and suggestions on what kind of computer or computer components to get within a certain budget, ask in the #advice channel of [GadgetWorks' Discord server](https://discord.gg/Qqbddqg).
 
 ### Solution 2: Lower your settings
 1. On Minecraft's main menu, click "Options"
@@ -88,6 +65,7 @@ If you want advice and suggestions on what kind of computer or computer componen
 4. Set "Graphics" to "Fast" instead of "Fancy"
 5. Set "Smooth Lighting" to "Minimum" instead of "Maximum"
 6. Turn on VBOs if the option is available (will yield a large performance boost on AMD systems)
+7. Set Mipmap Levels to 0
 
 ### Solution 3: Reduce un-necessary third-party background processes (Windows)
 Sometimes (or often if you click happy or a more novice user), you end up installing PUPs on your PC along with what you intended to install, which then adds bloat and causes performance regression - especially on the CPU side of things which Minecraft is most sensitive to.
@@ -106,4 +84,4 @@ Use the following steps to help reduce the number of third-party background proc
 9. Same as with the startup items, disable any third-party background services you don't want running in the background
 **WARNING: Do not disable services by the publishers AMD, Intel, NVidia, Realtek or Microsoft as these are required for your computer to work properly.** 
 
-10. Finally, restart your computer to apply the changes. If anything goes wrong, undo your changes by following these steps backwards or contact [GadgetWorks](https://discord.gg/Qqbddqg) for free help and support.
+10. Finally, restart your computer to apply the changes. If anything goes wrong, undo your changes by following these steps backwards or join us on [Discord](https://discord.gg/rzK54qN) for further support.
