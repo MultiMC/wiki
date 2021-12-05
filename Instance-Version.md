@@ -3,7 +3,7 @@
 Here, you can add the various components that make up the base of the instance and change their versions.
 ## Selection
 
-* **Change Version**: Almost all minecraft versions available can be selected. This includes releases, snapshots and even alpha and beta releases. Changing the Minecraft version will also remove/replace all the other base components such as mod-loaders like Forge or Liteloader.
+* **Change Version**: Almost all Minecraft versions available can be selected. This includes releases, snapshots and even alpha and beta releases. Changing the Minecraft version will also remove/replace all the other base components such as mod-loaders like Forge or Liteloader.
 
 * **Move Up/Down**: These buttons are for more advanced users who want to customize in which order the components are launched. Minecraft and LWJGL should always be the first two on the list. This is mostly used for re-ordering jar mods.
 
@@ -19,7 +19,7 @@ Here, you can add the various components that make up the base of the instance a
 
 ## Install
 
-  * **Install Forge/Liteloader**: These install buttons are *THE ONLY* way to install Forge and LiteLoader in MultiMC. Their original installers do not work here. Advanced users can edit these mod-loaders (see editing components above).
+  * **Install Forge, Fabric, Liteloader**: These install buttons are *THE ONLY* way to install Forge, Fabric and LiteLoader in MultiMC. Their original installers do not work here. Advanced users can edit these mod-loaders (see editing components above).
 
   * **Install mods**: Opens the mods page for quick access to the "mods" folder for adding mods.
 
