@@ -29,6 +29,12 @@ Just use OptiFine like any other Forge mod.
   ```
   .../MultiMC/instances/<Instance>/libraries/OptiFine_1.13_HD_U_E3_beta4.jar
   ```
+
+* For 1.18 and newer you also need to open the Jar and extract another Jar from it, in this example take the 
+  `launchwrapper-of-2.3.jar` and move it to the same libraries folder as the main OptiFine Jar.
+
+  ![](images/optifine-launchwrapper.png)
+
 * Launch the instance from MultiMC
 
 If the example doesn't fit the OptiFine version exactly, change the version. For example replace all occurences of `1.7.10_HD_U_E3` with `1.7.10_HD_U_F1`.
@@ -38,6 +44,36 @@ You can use the version page to check the file for errors - obvious mistakes wil
 If the JSON file doesn't open in a text editor, make sure your operating system is set up to open `.json` files in one first.
 
 #### Examples
+
+##### Minecraft 1.18 with OptiFine 1.18_HD_U_H3
+```
+{
+    "formatVersion": 1,
+    "name": "OptiFine",
+    "+libraries": [
+        {
+            "name": "optifine:launchwrapper-of:2.3",
+            "MMC-hint": "local",
+            "MMC-filename": "launchwrapper-of-2.3.jar"
+        },
+        {
+            "name": "optifine:OptiFine:1.18_HD_U_H3",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.18_HD_U_H3.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.18"
+        }
+    ],
+    "uid": "optifine.OptiFine",
+    "version": "1.18_HD_U_H3"
+}
+```
 
 ##### Minecraft 1.13.2 with OptiFine 1.13.2_HD_U_E4
 ```
