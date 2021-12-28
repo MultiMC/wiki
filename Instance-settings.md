@@ -37,7 +37,7 @@ Both will be run in MultiMC's working directory with extra environment variables
 * INST_NAME - Name of the instance
 * INST_ID - ID of the instance
 * INST_DIR - absolute path of the instance
-* INST_MC_DIR - absolute path of minecraft
+* INST_MC_DIR - absolute path of Minecraft
 * INST_JAVA - java binary used for launch
 * INST_JAVA_ARGS - command-line parameters used for launch
 

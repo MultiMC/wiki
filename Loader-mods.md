@@ -1,11 +1,6 @@
-![](http://dethware.org/pics/mmchelp/loadermods.png)
+![](images/loader-mods.png)
 
-This page reflects the contents of the instance's mods folder and is used for mods that loaders like ModLoader,  Forge or LiteLoader can read and add to the game. Unlike an ordinary file explorer, it shows details about the selected mod:
-* Name
-* Version
-* Mod author(s)
-* Mod description
-* And a clickable link leading to the mod's website (handy for getting updates!)
+This page reflects the contents of the instance's mods folder and is used for mods that loaders like Forge, Fabric, LiteLoader or ModLoader can read and add to the game. Unlike an ordinary file explorer, it also shows details about the mods like version and name.
 
 You can drag and drop more mods into the view, just like any other folder. The mods also have a check box next to them, which allows you to temporarily disable them.
 

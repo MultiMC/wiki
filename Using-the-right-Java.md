@@ -1,16 +1,9 @@
 Generally you should use Java with the same architecture as your CPU. There are different version requirements for different Minecraft versions.
-If you don't know which one and how to get it, read on.
-
-# Setting up Java in MultiMC
-
-* In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
-* See [[Increasing Java's memory allocation]] for more details about Java memory settings.
-
-![](https://cdn.discordapp.com/attachments/531598137790562305/575378380573114378/unknown.png)
+If you don't know which one and how to get it, read on. After you installed the correct version make sure [to select it](#setting-up-java-in-multimc).
 
 # Minecraft 1.17 and newer
 
-For this version you need to use Java 16.
+For Minecraft 1.17 you need to use at least Java 16, for 1.18 you need to use Java 17 so it's easiest to just install Java 17 for both.
 
 ## Linux
 
