@@ -61,7 +61,7 @@ If the JSON file doesn't open in a text editor, make sure your operating system 
     "requires": [
         {
             "uid": "net.minecraft",
-            "equals": "1.18"
+            "equals": "1.18.1"
         }
     ],
     "uid": "optifine.OptiFine",
