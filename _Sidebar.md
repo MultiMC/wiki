@@ -47,6 +47,7 @@
 * [[JSON Patches]]
 * [[Directory Structure]]
 * [[Custom Icons]]
+* [[Custom Build]]
 
 **External**
 
