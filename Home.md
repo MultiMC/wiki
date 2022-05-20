@@ -16,7 +16,7 @@ For further navigation please check the sidebar to the right, if you need suppor
 * Kill Minecraft easily if it crashes/freezes
 * Custom icons and groups for instances
 * Forge, Fabric and LiteLoader integration (automatic installation, version downloads, mod management)
-* Import of modpacks from various platforms like ATLauncher, CurseForge, Feed The Beast and Technic
+* Import of modpacks from various platforms like ATLauncher, Feed The Beast, Modrinth and Technic
 * LWJGL version changing built-in
 * Supports every version of Minecraft that the vanilla launcher does
 * Upload screenshots

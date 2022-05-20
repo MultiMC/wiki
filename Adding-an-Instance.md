@@ -13,7 +13,7 @@ You can also select snapshots, betas and other miscellaneous official versions.
 
 ## Import modpack/zip instance
 
-Allows you to import MultiMC instances from online or local Zip files and also supports some of the modpack platforms like CurseForge.
+Allows you to import MultiMC instances from online or local Zip files.
 More information about on the dedicated wiki pages [[Import Instance]] and [[Export Instance]].
 
 ## Modpack Platforms
@@ -23,7 +23,6 @@ Integration with various third party platforms can change over time, generally y
 As of writing, supported are:
 
 * ATLauncher: [atlauncher.com](https://atlauncher.com/packs/all)
-* CurseForge: [curseforge.com](https://www.curseforge.com/minecraft/modpacks)
-* Feed The Beast App: [feed-the-beast.com](https://www.feed-the-beast.com/modpack)
 * Feed The Beast Legacy: [feed-the-beast.com](https://www.feed-the-beast.com/)
+* Modrinth: [modrinth.com](https://modrinth.com/)
 * Technic: [technicpack.net](https://www.technicpack.net/modpacks)

@@ -11,4 +11,3 @@ Alternatively, you can drag&drop the modpack on top of the main window.
 Currently, you can import:
 
 * Modpacks (instances) that were originally exported by MultiMC
-* CurseForge modpacks (downloaded from their website, or exported through their launcher)
