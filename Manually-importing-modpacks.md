@@ -30,6 +30,7 @@ First we will need to find the modloader version the pack uses, for launcher spe
 
 <details>
   <summary>Click for FTB App instructions</summary>
+
   ### FTB App
 
   The easiest way seems to read the latest changelog for the specific modpack, alternatively in the modpack folder open the instance.json with a text editor and look for `modLoader`.
@@ -37,6 +38,7 @@ First we will need to find the modloader version the pack uses, for launcher spe
 
 <details>
   <summary>Click for Curseforge instructions</summary>
+
   ### Curseforge
 
   Open the modpack overview and the modloader is listed right of the game version
