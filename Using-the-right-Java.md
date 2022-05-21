@@ -29,7 +29,7 @@ Pick the JRE versions and make sure to match the architecture with your system, 
 - Homebrew: `openjdk@17`
 - Macports: `openjdk17`
 
-Alternatively the Windows links above usually also provide macOS and Linux versions.
+Alternatively the Windows links above usually also provide macOS and Linux versions. On M1 Macs you need to make sure to get the x64 packages, native Arm Java is currently not supported!
 
 
 # Minecraft 1.16 and older
