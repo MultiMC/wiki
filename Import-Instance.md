@@ -12,3 +12,4 @@ Currently, you can import:
 
 * Modpacks (instances) that were originally exported by MultiMC
 * Modrinth modpack files (.mrpack)
+* Technic launcher modpacks
