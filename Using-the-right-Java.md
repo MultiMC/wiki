@@ -40,7 +40,7 @@ The right Java version to use is Java 8
 
 * Install the right package
 
-  **Unbuntu/Debian derivatives**
+  **Ubuntu/Debian derivatives**
   ```
   # apt-get install openjdk-8-jre
   ```
