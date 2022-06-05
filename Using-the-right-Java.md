@@ -21,7 +21,7 @@ Pick the JRE versions and make sure to match the architecture with your system, 
 * Azul: https://www.azul.com/downloads/?version=java-17-stsarchitecture=x86-64-bit&package=jre#download-openjdk
 * Eclipse Adoptium: https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot
 * Microsoft OpenJDK: https://docs.microsoft.com/en-gb/java/openjdk/download
-* Oracle: https://www.oracle.com/java/technologies/downloads/
+* Oracle: https://www.oracle.com/java/technologies/downloads/#java17
 
 
 ## macOS
@@ -40,7 +40,7 @@ The right Java version to use is Java 8
 
 * Install the right package
 
-  **Unbuntu/Debian derivatives**
+  **Ubuntu/Debian derivatives**
   ```
   # apt-get install openjdk-8-jre
   ```
