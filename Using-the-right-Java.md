@@ -9,7 +9,7 @@ For Minecraft 1.17 you need to use at least Java 16, for 1.18 you need to use Ja
 
 Install the right package
 
-* Unbuntu/Debian derivatives: `openjdk-17-jre`
+* Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
 * Fedora `java-latest-openjdk`
 * OpenSUSE: `java-17-openjdk` (currently only in Tumbleweed)
