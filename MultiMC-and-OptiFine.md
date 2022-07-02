@@ -1,21 +1,23 @@
-## Minecraft versions which have Fabric (after and including 1.14)
+## Minecraft versions with Fabric (after and including 1.14)
 
-Install Fabric, then add Optifine along with https://www.curseforge.com/minecraft/mc-mods/optifabric as mods.
+Install Fabric, then add OptiFine along with [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) as mods.
 
-## Minecraft versions which have Forge (before 1.13)
+## Minecraft versions with Forge
 
-Just use OptiFine like any other Forge mod.
+Make sure the current OptiFine release supports Forge! Then just use OptiFine like any other Forge mod.
 
-## Minecraft versions that don't have Forge or Fabric
+## Minecraft versions without Forge or Fabric
 
-### The jar mod way (any version)
+.. or if OptiFine isn't updated to work with either.
+
+### As a JAR mod (before 1.13)
 
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Install the same version in the Mojang launcher
-* Run the desired version of Optifine as an installer and make it extract the jar
-* Add the extracted jar on the Version page of the instance (Add to Minecraft.jar)
+* Run the desired version of OptiFine as an installer and make it extract the JAR
+* Add the extracted JAR on the Version page of the instance (Add to Minecraft.jar)
 
-### The launchwrapper tweaker way (listed versions)
+### As a JSON patch
 
 * Make a new instance in MultiMC with the wanted version of Minecraft.
 * Click `Edit Instance` - it should open the `Version` page of the instance.
@@ -39,6 +41,36 @@ You can use the version page to check the file for errors - obvious mistakes wil
 If the JSON file doesn't open in a text editor, make sure your operating system is set up to open `.json` files in one first.
 
 #### Examples
+
+##### Minecraft 1.19 with OptiFine 1.19_HD_U_H8_pre2
+```
+{
+    "formatVersion": 1,
+    "name": "OptiFine",
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:of-2.3",
+            "url": "https://files.multimc.org/maven/"
+        },
+        {
+            "name": "optifine:OptiFine:1.19_HD_U_H8_pre2",
+            "MMC-hint": "local",
+            "MMC-filename": "preview_OptiFine_1.19_HD_U_H8_pre2.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.19"
+        }
+    ],
+    "uid": "optifine.OptiFine",
+    "version": "1.19_HD_U_H8_pre2"
+}
+```
+
 
 ##### Minecraft 1.18.1 with OptiFine 1.18.1_HD_U_H4
 ```
