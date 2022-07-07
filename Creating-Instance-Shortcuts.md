@@ -1,5 +1,5 @@
 # Creating Instance Shortcuts
-![create shortcut screen](https://user-images.githubusercontent.com/35371030/177705677-8399ad6f-da12-4adc-bc20-dbc845a637b1.png)
+![create shortcut screen](https://user-images.githubusercontent.com/35371030/177822257-b392f13d-2820-41fe-9e0e-fe60785063e1.png)
 
 
 MultiMC offers the ability to create a shortcut file that will directly launch a specific instance when opened.
@@ -7,7 +7,8 @@ To get started, right click on an instance and press 'Create Shortcut', or selec
 The window shown at the top of this page will open.
 
 
-![create shortcut buttons](https://user-images.githubusercontent.com/35371030/177706235-c87668c0-a250-47c4-be46-4ad6fb71920e.png)
+![create shortcut buttons](https://user-images.githubusercontent.com/35371030/177822544-b46313ba-9614-4859-9d8f-fc34abbc43d2.png)
+
 
 ## Note for Mac users:
 macOS does not have a concept of a shortcut in the same way as Windows or some Linux distributions, so this option will always create a shell script instead.
