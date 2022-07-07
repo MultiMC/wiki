@@ -20,7 +20,7 @@ You can change the file location to wherever you want; the correct file extensio
 
 ### Join server on launch
 This allows you to join a specific Minecraft server as soon as the game is launched. Enable the checkbox and type the server's address or IP in the text box next to it.
-Note: This option is disabled for certain versions of the game due to bugs [MC-145102](https://bugs.mojang.com/browse/MC-145102) and [MC_228828](https://bugs.mojang.com/browse/MC-228828) which caused the game to crash with this option enabled.
+Note: This option is disabled for certain versions of the game due to bugs [MC-145102](https://bugs.mojang.com/browse/MC-145102) and [MC-228828](https://bugs.mojang.com/browse/MC-228828) which caused the game to crash with this option enabled.
 
 ### Use specific profile
 This option allows you to select a certain account to launch the instance with. Enable the checkbox and select the account you want to use from the menu.
