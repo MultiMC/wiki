@@ -33,6 +33,7 @@
 * [[Loader mods]]
 * [[Import Instance]]
 * [[Export Instance]]
+* [[Creating Instance Shortcuts]]
 * [[Resource packs]]
 * [[Screenshots management]]
 * [[Jar Modding]]
