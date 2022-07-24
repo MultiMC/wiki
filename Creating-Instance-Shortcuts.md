@@ -14,14 +14,15 @@ The window shown at the top of this page will open.
 macOS does not have a concept of a shortcut in the same way as Windows or some Linux distributions, so this option will always create a shell script instead.
 For more information, see [Create script instead of shortcut](#create-script-instead-of-shortcut).
 
+Additionally, a terminal window will be left open by default. To make the terminal close automatically, open your terminal's settings, go to Profiles, select the Shell tab and change "When the shell exits" to "Close the window".
+
 ## Options
 ### Shortcut path
 This is the file that the shortcut will be saved as. The default location is a file on your desktop called "Instance Name - MultiMC 5".
 You can change the file location to wherever you want; the correct file extension for your platform will be added automatically.
 
 ### Join server on launch
-This allows you to join a specific Minecraft server as soon as the game is launched. Enable the checkbox and type the server's address or IP in the text box next to it.
-Note: This option is disabled for certain versions of the game due to bugs [MC-145102](https://bugs.mojang.com/browse/MC-145102) and [MC-228828](https://bugs.mojang.com/browse/MC-228828) which caused the game to crash with this option enabled.
+This allows you to join a specific Minecraft server as soon as the game is launched. Enable the checkbox and type the server's address or IP in the text box next to it. However, this option may cause crashes on certain versions of the game due to bugs [MC-145102](https://bugs.mojang.com/browse/MC-145102) and [MC-228828](https://bugs.mojang.com/browse/MC-228828).
 
 ### Use specific profile
 This option allows you to select a certain account to launch the instance with. Enable the checkbox and select the account you want to use from the menu.
@@ -29,6 +30,7 @@ This option allows you to select a certain account to launch the instance with. 
 ### Launch in offline mode
 This allows you to launch an instance in 'offline mode', the same as if you used the 'Launch Offline' button in MultiMC's GUI.
 In offline mode, you can play without an internet connection and use a different username, but you will not be able to join most servers.
+
 Note: This does not allow you to play the game without buying it. MultiMC will not launch in offline mode if you do not have a valid account added.
 #### Set offline mode username
 If the 'launch in offline mode' checkbox is enabled, this allows you to set a custom username.
