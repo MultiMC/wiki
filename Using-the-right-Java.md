@@ -18,7 +18,7 @@ Install the right package
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
-* Azul: https://www.azul.com/downloads/?version=java-17-stsarchitecture=x86-64-bit&package=jre#download-openjdk
+* Azul: https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre#download-openjdk
 * Eclipse Adoptium: https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot
 * Microsoft OpenJDK: https://docs.microsoft.com/en-gb/java/openjdk/download
 * Oracle: https://www.oracle.com/java/technologies/downloads/#java17
