@@ -23,7 +23,7 @@ Install the right package
 * Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
 * Fedora `java-17-openjdk`
-* OpenSUSE: `java-17-openjdk` (currently only in Tumbleweed)
+* OpenSUSE: `java-17-openjdk`
 
 Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
