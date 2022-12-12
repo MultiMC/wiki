@@ -2,17 +2,7 @@ Generally you should use Java with the same architecture as your CPU. There are 
 If you don't know which one and how to get it, read on. After you installed the correct version make sure [to select it](#setting-up-java-in-multimc).
 
 # Minecraft 1.17 and newer
-
-For Minecraft 1.17 you need to use at least Java 16, for 1.18 you need to use Java 17 so it's easiest to just install Java 17 for both.
-
-## Linux
-
-Install the right package
-
-* Ubuntu/Debian derivatives: `openjdk-17-jre`
-* Arch `jre17-openjdk`
-* Fedora `java-latest-openjdk`
-* OpenSUSE: `java-17-openjdk` (currently only in Tumbleweed)
+Use of Java 17 is recommended and encouraged for best compatibility.
 
 ## Windows
 
@@ -28,36 +18,41 @@ Azul: https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectur
 * Oracle: https://www.oracle.com/java/technologies/downloads/#java17
 </details>
 
+## Linux
+* Install the right package
+
+  **Ubuntu/Debian derivatives**
+
+  ```
+  # apt-get install openjdk-17-jre
+  ```
+
+  **Arch**
+
+  ```
+  # pacman -Syu jre17-openjdk
+  ```
+
+  **RPM-based distributions**
+
+  ```
+  # yum install java-17-openjdk
+  ```
+
+Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
+
 ## macOS
 
-- Homebrew: `openjdk@17`
-- Macports: `openjdk17`
+Azul: https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre
+For least amount of issues, choose **.dmg** download.
+
+**Native ARM Java is currently not supported on MultiMC.**
 
 Alternatively the Windows links above usually also provide macOS and Linux versions. On M1 Macs you need to make sure to get the x64 packages, native Arm Java is currently not supported!
-
 
 # Minecraft 1.16 and older
 
 The right Java version to use is Java 8
-
-## Linux
-
-* Install the right package
-
-  **Ubuntu/Debian derivatives**
-  ```
-  # apt-get install openjdk-8-jre
-  ```
-  **Arch**
-  ```
-  # pacman -Syu jre8-openjdk
-  ```
-  **RPM-based distributions**
-  ```
-  # yum install java-1.8.0-openjdk
-  ```
-
-Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
 ## Windows
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
@@ -74,6 +69,31 @@ Azul: https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture
   * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.
 ![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
 </details>
+
+## Linux
+
+* Install the right package
+
+  **Ubuntu/Debian derivatives**
+
+  ```
+  # apt-get install openjdk-8-jre
+  ```
+
+  **Arch**
+
+  ```
+  # pacman -Syu jre8-openjdk
+  ```
+
+  **RPM-based distributions**
+
+  ```
+  # yum install java-1.8.0-openjdk
+  ```
+
+Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
+
 
 ## macOS
 * Go to https://www.java.com/en/download/manual.jsp
