@@ -2,6 +2,7 @@ Generally you should use Java with the same architecture as your CPU. There are 
 If you don't know which one and how to get it, read on. After you installed the correct version make sure [to select it](#setting-up-java-in-multimc).
 
 # Minecraft 1.17 and newer
+
 Use of Java 17 is recommended and encouraged for best compatibility.
 
 ## Windows
@@ -19,6 +20,7 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectu
 </details>
 
 ## Linux
+
 Install the right package
 * Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
@@ -41,6 +43,7 @@ Alternatively the Windows links above usually also provide macOS and Linux versi
 The right Java version to use is Java 8
 
 ## Windows
+
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
 Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
