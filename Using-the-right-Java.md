@@ -18,8 +18,9 @@ Install the right package
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
-* Azul: https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit&package=jre#download-openjdk
-* Eclipse Adoptium: https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot
+* Azul: https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre
+* Eclipse Temurin: https://adoptium.net/temurin/releases/?version=17
+  * Select in the dropdowns "Windows" "x64" "JRE" and "17"
 * Microsoft OpenJDK: https://docs.microsoft.com/en-gb/java/openjdk/download
 * Oracle: https://www.oracle.com/java/technologies/downloads/#java17
 
@@ -59,18 +60,11 @@ Common issue is that people install only the headless version, and then it doesn
 
 Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
 
-### 64-bit
-* Go to https://www.java.com/en/download/manual.jsp
-* Download the `Windows Offline (64-bit)` installer, as shown below.
-![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
-* Install it.
-
-### 32-bit
-* Go to https://www.java.com/en/download/manual.jsp
-* Download the `Windows Offline` installer.
-* Install it.
-
-You will be limited to roughly 1500MB Java heap size, which is not big enough for mods in most cases.
+* Eclipse Temurin: https://adoptium.net/temurin/releases/?version=8
+  * Select in the dropdowns "Windows" "x64" "JRE" and "8"
+* Azul: https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre
+* Java.com: https://www.java.com/en/download/manual.jsp 
+  * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.
 
 ## macOS
 * Go to https://www.java.com/en/download/manual.jsp
