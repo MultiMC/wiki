@@ -8,42 +8,28 @@ Use of Java 17 is recommended and encouraged for best compatibility.
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
-Azul: https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre
+Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre>
 <details>
 <summary>Other Distributions</summary>
 
-* Eclipse Temurin: https://adoptium.net/temurin/releases/?version=17
+* Eclipse Temurin: <https://adoptium.net/temurin/releases/?version=17>
   * Select in the dropdowns "Windows" "x64" "JRE" and "17"
-* Microsoft OpenJDK: https://docs.microsoft.com/en-gb/java/openjdk/download
-* Oracle: https://www.oracle.com/java/technologies/downloads/#java17
+* Microsoft OpenJDK: <https://docs.microsoft.com/en-gb/java/openjdk/download>
+* Oracle: <https://www.oracle.com/java/technologies/downloads/#java17>
 </details>
 
 ## Linux
-* Install the right package
-
-  **Ubuntu/Debian derivatives**
-
-  ```
-  # apt-get install openjdk-17-jre
-  ```
-
-  **Arch**
-
-  ```
-  # pacman -Syu jre17-openjdk
-  ```
-
-  **RPM-based distributions**
-
-  ```
-  # yum install java-17-openjdk
-  ```
+Install the right package
+* Ubuntu/Debian derivatives: `openjdk-17-jre`
+* Arch `jre17-openjdk`
+* Fedora `java-17-openjdk`
+* OpenSUSE: `java-17-openjdk` (currently only in Tumbleweed)
 
 Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
 ## macOS
 
-Azul: https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre
+Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
 For least amount of issues, choose **.dmg** download.
 
 **Native ARM Java is currently not supported on MultiMC.**
@@ -59,45 +45,32 @@ Pick the JRE versions and make sure to match the architecture with your system, 
 
 Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
 
-Azul: https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre
+Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre>
 <details>
   <summary>Other Distributions</summary>
 
-* Eclipse Temurin: https://adoptium.net/temurin/releases/?version=8
+* Eclipse Temurin: <https://adoptium.net/temurin/releases/?version=8>
   * Select in the dropdowns "Windows" "x64" "JRE" and "8"
-* Java.com: https://www.java.com/en/download/manual.jsp 
+* Java.com: <https://www.java.com/en/download/manual.jsp>
   * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.
 ![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
 </details>
 
 ## Linux
 
-* Install the right package
+Install the right package
 
-  **Ubuntu/Debian derivatives**
-
-  ```
-  # apt-get install openjdk-8-jre
-  ```
-
-  **Arch**
-
-  ```
-  # pacman -Syu jre8-openjdk
-  ```
-
-  **RPM-based distributions**
-
-  ```
-  # yum install java-1.8.0-openjdk
-  ```
+* Ubuntu/Debian derivatives: `openjdk-8-jre`
+* Arch `jre8-openjdk`
+* Fedora `java-1.8.0-openjdk`
+* OpenSUSE: `java-1.8.0-openjdk`
 
 Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
 
-
 ## macOS
-* Go to https://www.java.com/en/download/manual.jsp
-* Download the `Mac OS X ` package.
+
+* Go to <https://www.java.com/en/download/manual.jsp>
+* Download the `Mac OS X` package.
 * Install it.
 
 # Setting up Java in MultiMC
