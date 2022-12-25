@@ -1,6 +1,6 @@
 Welcome to the MultiMC5 wiki!
 
-MultiMC is a free, open-source launcher for Minecraft, managed by [@peterixxx](https://twitter.com/peterixxx).
+MultiMC is a free, open-source launcher for Minecraft, managed by [@peterix](https://mastodon.gamedev.place/@peterix).
 
 It allows you to have multiple, separate instances of Minecraft (each with their own mods, texture packs, saves, etc) and helps you manage them and their associated options with a simple interface.
 
@@ -15,7 +15,7 @@ For further navigation please check the sidebar to the right, if you need suppor
 * Shows Minecraft's console output in a colour-coded window
 * Kill Minecraft easily if it crashes/freezes
 * Custom icons and groups for instances
-* Forge, Fabric and LiteLoader integration (automatic installation, version downloads, mod management)
+* Forge, Fabric, LiteLoader and Quilt integration (automatic installation, version downloads, mod management)
 * Import of modpacks from various platforms like ATLauncher, Feed The Beast, Modrinth and Technic
 * LWJGL version changing built-in
 * Supports every version of Minecraft that the vanilla launcher does
