@@ -82,10 +82,15 @@ These fields actually affect the launching of the game. Some can be added to or 
 The `traits` list contains a list of any of these values.
 
 `legacyFML`: This trait skips downloading FML libraries, used for legacy FML versions.
+
 `legacyLaunch` and `alphaLaunch`: These traits will try to use the legacy launch using the applet wrapper.
+
 `noapplet`: If `legacyLaunch` or `alphaLaunch` are enabled, this trait will not launch the game using the applet wrapper.
+
 `FirstThreadOnMacOS`: This trait will add `-XstartOnFirstThread` to the JVM arguments for MacOS.
+
 `no-texturepacks`: This trait is used to indicate texture packs should not be used.
+
 `texturepacks`: This trait is used to indicate texture packs are being used.
 
 ### libraries
