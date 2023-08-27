@@ -1,11 +1,9 @@
 Generally you should use Java with the same architecture as your CPU. There are different version requirements for different Minecraft versions.
 If you don't know which one and how to get it, read on. After you installed the correct version make sure [to select it](#setting-up-java-in-multimc).
 
-# Minecraft 1.17 and newer
-
-Use of Java 17 is recommended and encouraged for best compatibility.
-
-## Windows
+# Windows  
+    
+### **Minecraft 1.17 and newer**
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
@@ -17,32 +15,10 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectu
   * Select in the dropdowns "Windows" "x64" "JRE" and "17"
 * Microsoft OpenJDK: <https://docs.microsoft.com/en-gb/java/openjdk/download>
 * Oracle: <https://www.oracle.com/java/technologies/downloads/#java17>
-</details>
+</details>   
+&nbsp;
 
-## Linux
-
-Install the right package
-* Ubuntu/Debian derivatives: `openjdk-17-jre`
-* Arch `jre17-openjdk`
-* Fedora `java-17-openjdk`
-* OpenSUSE: `java-17-openjdk`
-
-Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
-
-## macOS
-
-Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
-For least amount of issues, choose **.dmg** download.
-
-**Native ARM Java is currently not supported on MultiMC.**
-
-Alternatively the Windows links above usually also provide macOS and Linux versions. On M1 Macs you need to make sure to get the x64 packages, native Arm Java is currently not supported!
-
-# Minecraft 1.16 and older
-
-The right Java version to use is Java 8
-
-## Windows
+### **Minecraft 1.16 and older**
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
@@ -55,11 +31,49 @@ Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architectur
 * Eclipse Temurin: <https://adoptium.net/temurin/releases/?version=8>
   * Select in the dropdowns "Windows" "x64" "JRE" and "8"
 * Java.com: <https://www.java.com/en/download/manual.jsp>
-  * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.
+  * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.  
 ![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
 </details>
 
-## Linux
+&nbsp;
+
+#  macOS #  
+
+### **Minecraft 1.17 and newer**
+
+
+Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
+For least amount of issues, choose **.dmg** download.
+
+**Native ARM Java is currently not supported on MultiMC.**
+
+` Alternatively the Windows links above usually also provide macOS and Linux versions. On M1 Macs you need to make sure to get the x86_64 packages, native Arm Java is currently not supported! `
+
+
+### **Minecraft 1.16 and older**
+
+* Go to <https://www.java.com/en/download/manual.jsp>
+* Download the `Mac OS X` package.
+* Install it.
+
+&nbsp;
+
+# Linux
+
+
+### **Minecraft 1.17 and newer**
+
+Install the right package
+* Ubuntu/Debian derivatives: `openjdk-17-jre`
+* Arch `jre17-openjdk`
+* Fedora `java-17-openjdk`
+* OpenSUSE: `java-17-openjdk`
+
+
+
+
+
+### **Minecraft 1.16 and older**
 
 Install the right package
 
@@ -68,14 +82,18 @@ Install the right package
 * Fedora `java-1.8.0-openjdk`
 * OpenSUSE: `java-1.8.0-openjdk`
 
-Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.
+### **Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.**
 
-## macOS
+&nbsp;
 
-* Go to <https://www.java.com/en/download/manual.jsp>
-* Download the `Mac OS X` package.
-* Install it.
 
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 # Setting up Java in MultiMC
 
 * In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
