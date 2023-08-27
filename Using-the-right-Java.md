@@ -80,7 +80,7 @@ For least amount of issues, choose **.dmg** download.
 * Fedora `java-1.8.0-openjdk`
 * OpenSUSE: `java-1.8.0-openjdk`
 
-### **Common issue is that people install only the headless version, and then it doesn't work. Make sure you have the full desktop version. Headless is for servers.**
+**Do not choose the headless version as that is designed for servers and not general use.**
 
 &nbsp;
 
