@@ -45,8 +45,9 @@ Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architectur
 Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
 For least amount of issues, choose **.dmg** download.
 
+  
+**Native ARM Java is currently not supported on MultiMC and x86_64 packages are required for M1/M2 computers.**    
 
- ```Alternatively the Windows links above usually also provide macOS and Linux versions. On M1/M2 Macs you need to make sure to get the x86_64 packages as native Arm Java is currently not supported!  ```
   
 
 ### **Minecraft 1.16 and older**
