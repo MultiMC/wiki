@@ -22,7 +22,7 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectu
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
-Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [Unsupported-Intel-GPUs] for details.
+Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [Unsupported-Intel-GPUs|Unsupported-Intel-GPUs] for details.
 
 Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre>
 <details>
