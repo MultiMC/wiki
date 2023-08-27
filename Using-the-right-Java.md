@@ -46,8 +46,8 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture
 For least amount of issues, choose **.dmg** download.
 
 
-` Alternatively the Windows links above usually also provide macOS and Linux versions. On M1/M2 Macs you need to make sure to get the x86_64 packages as native Arm Java is currently not supported! `
-
+ ```Alternatively the Windows links above usually also provide macOS and Linux versions. On M1/M2 Macs you need to make sure to get the x86_64 packages as native Arm Java is currently not supported!  ```
+  
 
 ### **Minecraft 1.16 and older**
 
