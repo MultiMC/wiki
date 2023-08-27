@@ -22,7 +22,7 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectu
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
-Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
+Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [Unsupported-Intel-GPUs] for details.
 
 Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre>
 <details>
@@ -63,7 +63,6 @@ For least amount of issues, choose **.dmg** download.
 
 ### **Minecraft 1.17 and newer**
 
-Install the right package
 * Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
 * Fedora `java-17-openjdk`
@@ -75,7 +74,6 @@ Install the right package
 
 ### **Minecraft 1.16 and older**
 
-Install the right package
 
 * Ubuntu/Debian derivatives: `openjdk-8-jre`
 * Arch `jre8-openjdk`
