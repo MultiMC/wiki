@@ -86,12 +86,6 @@ For least amount of issues, choose **.dmg** download.
 
 
 &nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
 # Setting up Java in MultiMC
 
 * In MultiMC, set it up using the `Auto detect` feature in the main settings - see [[Java-settings]] for details.
