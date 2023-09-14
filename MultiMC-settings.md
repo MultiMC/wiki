@@ -26,7 +26,7 @@ This here allows you to change what language MultiMC is in, the default for it i
 
 ## Sort Instances
 ![](http://i.imgur.com/pDOGtpr.png)
-You can sort your instances by last launched or by thier name.
+You can sort your instances by last launched or by their name.
 
 ## Icon theme
 ![](http://i.imgur.com/JcrxCtE.png)
