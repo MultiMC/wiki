@@ -3,11 +3,15 @@ If you don't know which one and how to get it, read on. After you installed the 
 
 # Windows  
     
-### **Minecraft 1.17 and newer**
+### **Minecraft 1.17 and newer (Java 17)**
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
+**Make sure to download the .msi installer!**
+
 Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre>
+
+Scroll down until you see the single entry in the table!
 <details>
 <summary>Other Distributions</summary>
 
@@ -18,13 +22,17 @@ Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architectu
 </details>   
 &nbsp;
 
-### **Minecraft 1.16 and older**
+### **Minecraft 1.16 and older (Java 8)**
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
+
+**Make sure to download the .msi installer!**
 
 Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
 
 Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jre>
+
+Scroll down until you see the single entry in the table!
 <details>
   <summary>Other Distributions</summary>
 
@@ -39,18 +47,20 @@ Azul: <https://www.azul.com/downloads/?version=java-8-lts&os=windows&architectur
 
 #  macOS #  
 
-### **Minecraft 1.17 and newer**
+### **Minecraft 1.17 and newer (Java 17)**
 
 
 Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
+
 For least amount of issues, choose **.dmg** download.
 
+Scroll down until you see the single entry in the table!
   
-**Native ARM Java is currently not supported on MultiMC and x86_64 packages are required for M1/M2 computers.**    
+**Native ARM Java is currently not supported on MultiMC and x86_64 packages are required for M1/M2/M3 computers.**    
 
   
 
-### **Minecraft 1.16 and older**
+### **Minecraft 1.16 and older (Java 8)**
 
 * Go to <https://www.java.com/en/download/manual.jsp>
 * Download the `Mac OS X` package.
@@ -61,7 +71,7 @@ For least amount of issues, choose **.dmg** download.
 # Linux
 
 
-### **Minecraft 1.17 and newer**
+### **Minecraft 1.17 and newer (Java 17)**
 
 * Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
@@ -72,7 +82,7 @@ For least amount of issues, choose **.dmg** download.
 
 
 
-### **Minecraft 1.16 and older**
+### **Minecraft 1.16 and older (Java 8)**
 
 
 * Ubuntu/Debian derivatives: `openjdk-8-jre`
