@@ -1,6 +1,22 @@
 Generally you should use Java with the same architecture as your CPU. There are different version requirements for different Minecraft versions.
 If you don't know which one and how to get it, read on. After you installed the correct version make sure [to select it](#setting-up-java-in-multimc).
 
+_______________________________________________________________________________  
+
+
+># Snapshots after 24w14a now require Java 21.​
+#### WINDOWS: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>  
+#### Mac - <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>  
+#### Linux - `temurin-21-jdk`
+  
+_______________________________________________________________________________  
+</br>     
+</br>     
+</br>     
+
+
+
+
 # Windows  
     
 ### **Minecraft 1.17 and newer (Java 17)**
