@@ -5,7 +5,7 @@ _______________________________________________________________________________
 
 
 ># Snapshots 24w14a and later now require Java 21.​
-#### WINDOWS: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>  
+#### Windows: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>  
 #### Mac - <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>  
 #### Linux - `temurin-21-jdk`
   
