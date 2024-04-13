@@ -57,7 +57,7 @@ Scroll down until you see the single entry in the table!
 
 Snapshots 24w14a and later now require Java 21.
 
-<https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
+Download: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
 
 ### **Minecraft 1.17 and newer (Java 17)**
 
