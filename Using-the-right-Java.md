@@ -5,8 +5,6 @@ If you don't know which one and how to get it, read on. After you installed the 
 
 ### **Minecraft 24w14a and newer (Java 21)**
 
-Snapshots 24w14a and later now require Java 21.
-
 Download: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
@@ -55,8 +53,6 @@ Scroll down until you see the single entry in the table!
 
 ### **Minecraft 24w14a and newer (Java 21)**
 
-Snapshots 24w14a and later now require Java 21.
-
 Download: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
@@ -83,8 +79,6 @@ Scroll down until you see the single entry in the table!
 # Linux
 
 ### **Minecraft 24w14a and newer (Java 21)**
-
-Snapshots 24w14a and later now require Java 21.
 
 `temurin-21-jdk`
 
