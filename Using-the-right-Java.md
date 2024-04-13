@@ -9,7 +9,7 @@ Snapshots 24w14a and later now require Java 21.
 
 Download: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>
 
-### **Minecraft 1.17 and newer (Java 17)**
+### **Minecraft 1.17 until 1.20.4 (Java 17)**
 
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
@@ -59,7 +59,7 @@ Snapshots 24w14a and later now require Java 21.
 
 Download: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
 
-### **Minecraft 1.17 and newer (Java 17)**
+### **Minecraft 1.17 until 1.20.4 (Java 17)**
 
 
 Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=macos&architecture=x86-64-bit&package=jre>
@@ -88,7 +88,7 @@ Snapshots 24w14a and later now require Java 21.
 
 `temurin-21-jdk`
 
-### **Minecraft 1.17 and newer (Java 17)**
+### **Minecraft 1.17 until 1.20.4 (Java 17)**
 
 * Ubuntu/Debian derivatives: `openjdk-17-jre`
 * Arch `jre17-openjdk`
