@@ -35,7 +35,6 @@ Note: There is an exception when using some poorly supported/unsupported old int
 
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=8>
 
-Scroll down until you see the single entry in the table!
 <details>
   <summary>Other Distributions</summary>
 
