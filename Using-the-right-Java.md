@@ -58,8 +58,6 @@ Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=17>
 
 For least amount of issues, choose **.pkg** download.
-
-Scroll down until you see the single entry in the table!
   
 **Native ARM Java is currently not supported on MultiMC and x86_64 packages are required for M1/M2/M3 computers.**    
 
