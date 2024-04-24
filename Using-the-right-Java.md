@@ -3,9 +3,11 @@ If you don't know which one and how to get it, read on. After you installed the 
 
 # Windows  
 
-### **Minecraft 24w14a and newer (Java 21)**
+### **Minecraft 1.20.5 and newer (Java 21)**
 
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>
+
+&nbsp;
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
 
@@ -22,7 +24,8 @@ Scroll down until you see the single entry in the table!
 * Azul: <https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jre>
 * Microsoft OpenJDK: <https://docs.microsoft.com/en-gb/java/openjdk/download>
 * Oracle: <https://www.oracle.com/java/technologies/downloads/#java17>
-</details>   
+</details>
+
 &nbsp;
 
 ### **Minecraft 1.16 and older (Java 8)**
@@ -43,38 +46,38 @@ Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&pac
   * Make sure to download only the "_Windows Offline (x64)_" installer as Online can cause installation issues.  
 ![](https://cdn.discordapp.com/attachments/404818598541000704/681278632811036714/correct-windows-java.png)
 </details>
+&nbsp;
+
+#  macOS #
+**M1/M2/M3 CPU: Native ARM Java is currently not supported on MultiMC and x86_64 packages are required.**
+
+For least amount of issues, choose **.pkg** download.
+
+### **Minecraft 1.20.5 and newer (Java 21)**
+Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
 
 &nbsp;
 
-#  macOS #  
-
-### **Minecraft 24w14a and newer (Java 21)**
-
-Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=21>
-
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
-
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=mac&arch=x64&package=jre&version=17>
-
-For least amount of issues, choose **.pkg** download.
   
-**Native ARM Java is currently not supported on MultiMC and x86_64 packages are required for M1/M2/M3 computers.**    
-
   
+&nbsp;
 
 ### **Minecraft 1.16 and older (Java 8)**
 
 * Go to <https://www.java.com/en/download/manual.jsp>
-* Download the `Mac OS X` package.
+* Download the `Mac OS X` package. Make sure to download the x64 as ARM is currently not supported.
 * Install it.
 
 &nbsp;
 
 # Linux
 
-### **Minecraft 24w14a and newer (Java 21)**
+### **Minecraft 1.20.5 and newer (Java 21)**
 
 `temurin-21-jdk`
+
 
 ### **Minecraft 1.17 until 1.20.4 (Java 17)**
 
@@ -82,13 +85,9 @@ For least amount of issues, choose **.pkg** download.
 * Arch `jre17-openjdk`
 * Fedora `java-17-openjdk`
 * OpenSUSE: `java-17-openjdk`
-
-
-
-
+&nbsp;
 
 ### **Minecraft 1.16 and older (Java 8)**
-
 
 * Ubuntu/Debian derivatives: `openjdk-8-jre`
 * Arch `jre8-openjdk`
@@ -96,7 +95,6 @@ For least amount of issues, choose **.pkg** download.
 * OpenSUSE: `java-1.8.0-openjdk`
 
 **Do not choose the headless version as that is designed for servers and not general use.**
-
 &nbsp;
 
 
