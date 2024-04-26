@@ -30,6 +30,13 @@
 2. Click _Add Microsoft_ or _Add Mojang_ and follow the prompts
 3. You can add multiple accounts. You can set a default account by clicking _Set default_. Without a default selection, MultiMC will ask you which account you wish to use on every launch.
 
+#### Using GitHub Account
+
+1. After clicking _Add Microsoft_ and clicking next, don't enter your username/E-Mail but click _Sign-in options_
+2. Choose _Forgot Username_ and enter te E-Mail adress associated with your account and click next
+3. You should receive a one-time passcode to your E-Mail, enter the code and continue
+4. You should now be able too connect MultiMC
+
 ### Creating an instance
 
 1. Click on the top left button
