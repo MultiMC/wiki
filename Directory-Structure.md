@@ -1,6 +1,13 @@
 Not all files/directories might be available, depending on your setup
 
-## Linux
+The easiest way to see the root folder is to click `Folders` > `View Instance Folder`. Then, go up one level.
+
+MultiMC stores its files in the same location as the MultiMC application.
+
+- On Windows, this folder should be wherever you extracted the MultiMC zip file.
+- On Linux and OS X, the default install location is `~/.config/local/multimc`
+
+## Folder structure
 
 ```
 <MultiMC root>
