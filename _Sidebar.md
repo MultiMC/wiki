@@ -46,7 +46,7 @@
 **Technical & In-depth**
 
 * [[JSON Patches]]
-* [[Directory Structure]]
+* [[Folder Structure]]
 * [[Custom Icons]]
 * [[Custom Build]]
 

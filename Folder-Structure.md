@@ -1,4 +1,4 @@
-Not all files/directories might be available, depending on your setup
+Not all files/folders might be available, depending on your setup
 
 ### Finding the root folder
 
@@ -108,7 +108,7 @@ MultiMC stores files in the same location as the MultiMC application.
 
 # Explanation
 
-| File/Directory | Description |
+| File/Folder | Description |
 | --- | --- |
 | accounts.json | All your accounts are saved here. No passwords are saved here, though the different tokens could be used to play Minecraft as you, so be careful |
 | assets/indexes/ | The files here contain information about the assets for different versions of the game, like which asset ID belongs to which asset. |
@@ -121,8 +121,8 @@ MultiMC stores files in the same location as the MultiMC application.
 | instances/\<instance\>/instance.cfg | This file keeps all the instance settings, such as memory options, as well as it's name etc. |
 | instances/\<instance\>/version.json | 1.6+ ONLY: This file contains all the information needed to launch a vanilla instance, like libraries needed etc. |
 | instances/\<instance\>/custom.json | 1.6+ ONLY, **DEPRECATED**: Like version.json, but for usage in modded scenarios. Can be used for completely overriding version.json, but it's recommended to use [patches](JSON Patches) instead |
-| instances/\<instance\>/minecraft/ | This is the "normal" Minecraft directory, which contains, saves/, mods/ etc. |
-| instances/\<instance\>/instMods/ | Pre-1.6 ONLY: The directory containing jarmods |
+| instances/\<instance\>/minecraft/ | This is the "normal" Minecraft folder, which contains, saves/, mods/ etc. |
+| instances/\<instance\>/instMods/ | Pre-1.6 ONLY: The folder containing jarmods |
 | jars/ | Since MultiMC isn't a Java program we use a few different Java applications for things like launching the game. Those are stored here. |
 | libraries/ | This contains all of Minecrafts dependencies, see below for more info |
 | metacache | This file contains information about most downloaded files and is used for keeping track of them and making sure they are always up-to-date |
