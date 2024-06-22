@@ -5,6 +5,8 @@ If you don't know which one and how to get it, read on. After you installed the 
 
 ### **Minecraft 1.20.5 and newer (Java 21)**
 
+**Make sure to download the .msi installer!**
+
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=21>
 
 &nbsp;
