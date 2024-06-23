@@ -1,6 +1,6 @@
 # Making a Custom Icon Set
 ## File Stucture
-- (MultiMC Directory)
+- (MultiMC Root Folder)
   - iconthemes
       - custom
         - scalable
