@@ -17,6 +17,8 @@ Pick the JRE versions and make sure to match the architecture with your system, 
 
 **Make sure to download the .msi installer!**
 
+**MCSR Users:** This pack also requires this version
+
 Eclipse Temurin: <https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17>
 
 Scroll down until you see the single entry in the table!
@@ -35,6 +37,8 @@ Scroll down until you see the single entry in the table!
 Pick the JRE versions and make sure to match the architecture with your system, usually x64 (64-bit)
 
 **Make sure to download the .msi installer!**
+
+**MCSR Users:** Use Java 17
 
 Note: There is an exception when using some poorly supported/unsupported old integrated GPUs from Intel. See [[Unsupported-Intel-GPUs]] for details.
 
